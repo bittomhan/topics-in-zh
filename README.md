@@ -1,5 +1,16 @@
 ---
 description: I can not see the doc in my github
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # 😀 Try to change something again
