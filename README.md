@@ -1,5 +1,4 @@
 ---
-description: I can not see the doc in my github
 layout:
   title:
     visible: true
@@ -13,11 +12,7 @@ layout:
     visible: false
 ---
 
-# 😀 Try to change something again
-
-{% hint style="info" %}
-**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
-{% endhint %}
+# Bitcoin Optech Topics in ZH
 
 For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
 
