@@ -8,6 +8,6 @@
 
 ## A
 
-* [Adaptor signatures 适配器签名](a/adaptor-signatures-shi-pei-qi-qian-ming.md)
+* [适配器签名（Adaptor Signatures）](a/shi-pei-qi-qian-ming-adaptor-signatures.md)
 * [Anonymity networks 匿名网络](a/anonymity-networks-ni-ming-wang-luo.md)
 * [Addr v2](a/addr-v2.md)
