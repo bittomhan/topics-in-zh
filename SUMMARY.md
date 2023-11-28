@@ -4,10 +4,10 @@
 
 ## 2
 
-* [Scriptless multisignatures](2/scriptless-multisignatures.md)
+* [无脚本多重签名（Scriptless Multisignatures）](2/wu-jiao-ben-duo-zhong-qian-ming-scriptless-multisignatures.md)
 
 ## A
 
 * [适配器签名（Adaptor Signatures）](a/shi-pei-qi-qian-ming-adaptor-signatures.md)
-* [Anonymity networks 匿名网络](a/anonymity-networks-ni-ming-wang-luo.md)
+* [匿名网络（Anonymity Networks）](a/ni-ming-wang-luo-anonymity-networks.md)
 * [Addr v2](a/addr-v2.md)
