@@ -1,4 +1,4 @@
-# 异步支付（Async Payments）
+# 异步支付 - Async Payments
 
 **异步支付（Async Payments）** 是指在接收方离线时进行的闪电网络（LN）支付，这些支付由转发节点（理想情况下是无需信任的方式）保留，并在接收方重新上线时交付。
 
@@ -6,7 +6,7 @@
 
 对于 LN 来说，接收方需要在收到支付时释放一个秘密，以确保支付的安全。这要求支付的发送方和接收方同时在线。在许多情况下，支付方在线并不是一个重大问题，因为他们已经启动了支付过程，并可以触发操作以确保支付被发送。但对于某些接收方来说，在线接收支付更具挑战性。例如，运行在移动电话上的 LN 节点可能有时完全断开互联网连接，并且可能因为节点应用程序在后台运行而无法访问网络。
 
-[2021年的讨论](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003307.html) 关于改善这种用户体验，提出了几个关于允许转发节点为接收节点保留支付直到接收方已知在线的想法。该讨论中最佳描述的无需信任方法需要使用 [PTLCs](https://bitcoinops.org/en/topics/ptlc/)，截至2022年底，PTLCs 还未被加入 LN。另一种[方法](https://bitcoinops.org/en/newsletters/2022/06/15/#trampoline-routing-and-mobile-payments)，可以在现有协议中实现，涉及使用蹦床中继。
+[2021 年的讨论](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003307.html)关于改善这种用户体验，提出了几个关于允许转发节点为接收节点保留支付直到接收方已知在线的想法。该讨论中最佳描述的无需信任方法需要使用 [PTLCs](https://bitcoinops.org/en/topics/ptlc/)，截至2022年底，PTLCs 还未被加入 LN。另一种[方法](https://bitcoinops.org/en/newsletters/2022/06/15/#trampoline-routing-and-mobile-payments)，可以在现有协议中实现，涉及使用蹦床中继。
 
 ## Optech 新闻简报和网站提及
 

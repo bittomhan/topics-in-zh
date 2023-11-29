@@ -2,7 +2,7 @@
 description: 同时涵盖 AMP
 ---
 
-# 原子多路径支付（Atomic Multipath Payments, AMPs）
+# 原子多路径支付 - Atomic Multipath Payments, AMPs
 
 **原子多路径支付（Atomic Multipath Payments, AMPs）**，有时被称为**原始 AMP（Original AMP）或 OG AMP**，允许支付者支付多个从同一原像（preimage）派生的哈希值——这是接收者只有在收到足够数量的份额时才能重建的前置。
 
@@ -33,7 +33,7 @@ AMP 和 SMP 都允许将较高价值的 HTLCs（Hash Time-Locked Contracts）分
 
 **2018年**
 
-* [闪电网络协议1.1目标：多路径支付](https://bitcoinops.org/en/newsletters/2018/11/20/#multi-path-payments)
+* [闪电网络协议 1.1 目标：多路径支付](https://bitcoinops.org/en/newsletters/2018/11/20/#multi-path-payments)
 
 ## 参见
 
