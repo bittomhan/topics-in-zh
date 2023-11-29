@@ -1,8 +1,8 @@
 ---
-description: 同时涵盖祖先费率挖矿（Ancestor Feerate Mining）
+description: 同时涵盖子支付父（Child Pays For Parent, CPFP）
 ---
 
-# 子支付父（Child Pays For Parent, CPFP）
+# 祖先费率挖矿（Ancestor Feerate Mining）
 
 **子支付父（Child Pays For Parent, CPFP）** 是一种费用提升技术，用户通过在子交易中以高费率花费一个低费率未确认交易的输出，从而鼓励矿工在一个区块中包含这两个交易。
 

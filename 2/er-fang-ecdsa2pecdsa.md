@@ -1,14 +1,14 @@
 ---
-description: 同时涵盖 二方ECDSA（2pECDSA）和双方ECDSA（Two-Party ECDSA）
+description: 同时涵盖无脚本多重签名（Scriptless Multisignatures）和双方 ECDSA（Two-Party ECDSA）
 ---
 
-# 无脚本多重签名（Scriptless Multisignatures）
+# 二方ECDSA（2pECDSA）
 
 **无脚本多重签名** 是使用两个或多个私钥创建的数字签名，可以仅使用单个公钥和单个签名进行验证。
 
 无脚本多重签名可以与_有脚本的多签名（scripted multisig）_ 进行比较，后者使用比特币的 `OP_CHECKMULTISIG` 和 `OP_CHECKMULTISIGVERIFY` 操作码（以及为 [tapscript](https://bitcoinops.org/en/topics/tapscript/) 提议的 `OP_CHECKSIGADD` 操作码）来使用公钥和签名。多重签名的优势在于，当它们用于比特币交易时，只有单个密钥和单个签名会在链上公布，允许无限数量的签名者支付与单个签名者为同一交易支付的相同交易费用。多重签名支付与单签名支付无法区分，还为两种支付的创建者提供了更大的隐私。
 
-尽管所有版本的比特币都支持 ECDSA 算法的多重签名创建，但为 [施诺尔签名（schnorr signatures）](https://bitcoinops.org/en/topics/schnorr-signatures/) 创建多重签名更容易，并且已知有几种算法，其中 [MuSig](https://bitcoinops.org/en/topics/musig/) 是专门为比特币用户的需求而创建的。
+尽管所有版本的比特币都支持 ECDSA 算法的多重签名创建，但为[施诺尔签名（schnorr signatures）](https://bitcoinops.org/en/topics/schnorr-signatures/) 创建多重签名更容易，并且已知有几种算法，其中 [MuSig](https://bitcoinops.org/en/topics/musig/) 是专门为比特币用户的需求而创建的。
 
 **术语**：下表总结了_多重签名_和相关术语之间的区别。
 

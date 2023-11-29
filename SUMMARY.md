@@ -4,23 +4,24 @@
 
 ## 2
 
-* [无脚本多重签名（Scriptless Multisignatures）](2/wu-jiao-ben-duo-zhong-qian-ming-scriptless-multisignatures.md)
+* [二方ECDSA（2pECDSA）](2/er-fang-ecdsa2pecdsa.md)
 
 ## A
 
 * [适配器签名（Adaptor Signatures）](a/shi-pei-qi-qian-ming-adaptor-signatures.md)
 * [Addr v2](a/addr-v2.md)
 * [原子多路径支付（Atomic Multipath Payments, AMPs）](a/yuan-zi-duo-lu-jing-zhi-fu-atomic-multipath-payments-amps.md)
-* [子支付父（Child Pays For Parent, CPFP）](a/zi-zhi-fu-fu-child-pays-for-parent-cpfp.md)
+* [祖先费率挖矿（Ancestor Feerate Mining）](a/zu-xian-fei-shuai-wa-kuang-ancestor-feerate-mining.md)
 * [锚定输出（Anchor Outputs）](a/mao-ding-shu-chu-anchor-outputs.md)
 * [匿名网络（Anonymity Networks）](a/ni-ming-wang-luo-anonymity-networks.md)
-* [费用狙击（Fee Sniping）](a/fei-yong-ju-ji-fee-sniping.md)
-* [Page 2](a/page-2.md)
-* [Page 3](a/page-3.md)
-* [Page 4](a/page-4.md)
-* [Page 5](a/page-5.md)
-* [Page 6](a/page-6.md)
+* [反费用狙击 (Anti Fee Sniping)](a/fan-fei-yong-ju-ji-anti-fee-sniping.md)
+* [ASIC 提速（ASICBoost）](a/asic-ti-su-asicboost.md)
+* [假设 UTXO（AssumeUTXO）](a/jia-she-utxoassumeutxo.md)
+* [异步支付（Async Payments）](a/yi-bu-zhi-fu-async-payments.md)
+* [AMP](a/amp.md)
 
 ***
 
-* [B](b.md)
+* [B](b/README.md)
+  * [Page 5](b/page-5.md)
+  * [Page 6](b/page-6.md)
