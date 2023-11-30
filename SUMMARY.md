@@ -5,7 +5,6 @@
 ## 2
 
 * [二方 ECDSA - 2pECDSA](2/er-fang-ecdsa-2pecdsa.md)
-* [Page 5](2/page-5.md)
 
 ## A
 
@@ -30,6 +29,7 @@
 * [Bech32(m)](b/bech32-m.md)
 * [Bech32m](b/bech32m.md)
 * [BIP8](b/bip8.md)
+* [BIP9](b/bip9.md)
 * [Page](b/page.md)
 * [Page 1](b/page-1.md)
 * [Page 2](b/page-2.md)

@@ -1,8 +1,8 @@
 ---
-description: 也涵盖软分叉激活（Soft Fork Activation）和 BIP9
+description: 也涵盖软分叉激活（Soft Fork Activation）和 BIP8
 ---
 
-# BIP8
+# BIP9
 
 **软分叉激活（Soft Fork Activation）** 描述了比特币全节点开始强制执行一个或多个额外共识规则的时刻。这些转变在网络上的节点之间引入了协调风险，因此开发者多年来致力于创造和改进软分叉激活机制，以最小化出现问题的可能性。
 
