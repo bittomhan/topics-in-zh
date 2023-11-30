@@ -5,6 +5,7 @@
 ## 2
 
 * [二方 ECDSA - 2pECDSA](2/er-fang-ecdsa-2pecdsa.md)
+* [Page 5](2/page-5.md)
 
 ## A
 
@@ -21,23 +22,16 @@
 * [异步支付 - Async Payments](a/yi-bu-zhi-fu-async-payments.md)
 * [原子多路径支付 - Atomic Multipath Payments (AMPs)](a/yuan-zi-duo-lu-jing-zhi-fu-atomic-multipath-payments-amps.md)
 
-***
+## B
 
-* [B](b/README.md)
-  * [基础 AMP - Base AMP](b/ji-chu-amp-base-amp.md)
-  * [批处理 - Batching](b/pi-chu-li-batching.md)
-  * [Bech32](b/bech32.md)
-  * [Bech32(m)](b/bech32-m.md)
-  * [Bech32m](b/bech32m.md)
-  * [BIP8](b/bip8.md)
-  * [Page 2](b/page-2.md)
-  * [Page 3](b/page-3.md)
-  * [Page 4](b/page-4.md)
-  * [Page 7](b/page-7.md)
-  * [Page 8](b/page-8.md)
-  * [Page 9](b/page-9.md)
-  * [Page 10](b/page-10.md)
-  * [Page 11](b/page-11.md)
-  * [Page 12](b/page-12.md)
-  * [Page 13](b/page-13.md)
-  * [Page 14](b/page-14.md)
+* [基础 AMP - Base AMP](b/ji-chu-amp-base-amp.md)
+* [批处理 - Batching](b/pi-chu-li-batching.md)
+* [Bech32](b/bech32.md)
+* [Bech32(m)](b/bech32-m.md)
+* [Bech32m](b/bech32m.md)
+* [BIP8](b/bip8.md)
+* [Page](b/page.md)
+* [Page 1](b/page-1.md)
+* [Page 2](b/page-2.md)
+* [Page 3](b/page-3.md)
+* [Page 4](b/page-4.md)
