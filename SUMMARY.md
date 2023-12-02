@@ -123,8 +123,8 @@
 ## J
 
 * [联合池 - Joinpools](j/lian-he-chi-joinpools.md)
-* [即时通道  - Just-In-Time, (JIT) channels](j/ji-shi-tong-dao-justintime-jit-channels.md)
-* [即时路由  - Just-In-Time, (JIT) routing](j/ji-shi-lu-you-justintime-jit-routing.md)
+* [即时通道  - Just-In-Time (JIT) channels](j/ji-shi-tong-dao-justintime-jit-channels.md)
+* [即时路由  - Just-In-Time (JIT) routing](j/ji-shi-lu-you-justintime-jit-routing.md)
 
 ## K
 
@@ -149,16 +149,31 @@
 
 ## N
 
-* [Page 8](n/page-8.md)
+* [原生隔离见证地址 - Native Segwit Address](n/bech32-m.md)
+* [中子协议 - Neutrino Protocol](n/jin-cou-kuai-guo-lv-qi-compact-block-filters.md)
 
 ## O
 
-* [Page 9](o/page-9.md)
+* [提议 - Offers](o/bolt12.md)
+* [洋葱消息 - Onion messages](o/yang-cong-xiao-xi-onion-messages.md)
+* [Opt-in Replace-by-Fee](o/bip125.md)
+* [OP\_CHECKSIGFROMSTACK](o/op\_checksigfromstack.md)
+* [OP\_CHECKTEMPLATEVERIFY](o/op\_checktemplateverify.md)
+* [OP\_CODESEPARATOR](o/op\_codeseparator.md)
+* [输出链接 - Output Linking](o/di-zhi-zhong-yong-address-reuse.md)
+* [脚本描述符 - Output script descriptors](o/miao-shu-fu-descriptors.md)
+* [显性 ASIC 提速 - Overt ASICBoost](o/asic-ti-su-asicboost.md)
 
 ## P
 
-* [Page 10](p/page-10.md)
+* [包裹中继 - Package Relay](p/bip331.md)
+* [部分签名的比特币交易 - Partially Signed Bitcoin Transactions](p/bip174.md)
+* [支付到合约协议- Pay-to-contract (P2C) protocols](p/zhi-fu-dao-he-yue-xie-yi-paytocontract-p2c-protocols.md)
+* [Pay-to-EndPoint](p/bip79.md)
+* [Payjoin](p/bip79-1.md)
+* [支付批处理 - Payment Batching](p/pi-chu-li-batching.md)
 * [支付池 - Payment pools](p/lian-he-chi-joinpools.md)
+* [支付探测 - Payment probes](p/zhi-fu-tan-ce-payment-probes.md)
 
 ## Q
 
@@ -169,6 +184,7 @@
 * [可重现构建 - Reproducible builds](r/ke-zhong-xian-gou-jian-reproducible-builds.md)
 * [会合路由 - Rendez-vous Routing](r/mang-hua-lu-jing-blinded-paths.md)
 * [路径盲化 - Route Blinding](r/mang-hua-lu-jing-blinded-paths-1.md)
+* [避免重用 - Reuse Avoidance](r/di-zhi-zhong-yong-address-reuse.md)
 
 ## S
 
