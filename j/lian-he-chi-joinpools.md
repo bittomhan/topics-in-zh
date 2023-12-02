@@ -1,8 +1,8 @@
 ---
-description: 同时涵盖支付池（Payment pools）和联合池（Joinpools）
+description: 同时涵盖支付池（Payment pools）和硬币池（Coinpools）
 ---
 
-# 硬币池 - Coinpools
+# 联合池 - Joinpools
 
 **联合池**是一种构造，允许多个用户无需信任地共享一个或多个 UTXO（未使用的交易输出）的所有权。当资金被支出时，无法从区块链上判断是哪个联合池成员（或成员们）花费了这些资金。联合池可以使用预签名的交易或提议的协议功能来确保每个成员随时可以单方面从池中提取他们的资金。
 

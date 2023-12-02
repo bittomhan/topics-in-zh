@@ -63,7 +63,7 @@
 * [集群内存池 - Cluster mempool](c/ji-qun-nei-cun-chi-cluster-mempool.md)
 * [Codex32](c/codex32.md)
 * [币混合 - CoinJoin](c/bi-hun-he-coinjoin.md)
-* [联合池 - Joinpools](c/lian-he-chi-joinpools.md)
+* [硬币池 - Coinpools](c/lian-he-chi-joinpools.md)
 * [紧凑块过滤器 - Compact Block Filters](c/jin-cou-kuai-guo-lv-qi-compact-block-filters.md)
 * [紧凑块中继 - Compact Block Relay](c/jin-cou-kuai-zhong-ji-compact-block-relay.md)
 * [共识清理软分叉 - Consensus Cleanup Soft Fork](c/gong-shi-qing-li-ruan-fen-cha-consensus-cleanup-soft-fork.md)
@@ -108,27 +108,44 @@
 
 ## H
 
-* [Page 2](h/page-2.md)
+* [硬件钱包接口 - Hardware Wallet Interface, HWI](h/ying-jian-qian-bao-jie-kou-hardware-wallet-interface-hwi.md)
+* [哈希时间锁合约 - Hash Time Locked Contract, HTLC](h/ha-xi-shi-jian-suo-he-yue-hash-time-locked-contract-htlc.md)
+* [HD 密钥生成 - HD key generation](h/bip32.md)
+* [HD 钱包 - HD wallets](h/bip32-1.md)
+* [隐藏目的地 - Hidden Destinations](h/mang-hua-lu-jing-blinded-paths.md)
+* [暂存发票 - Hold invoices](h/zan-cun-fa-piao-hold-invoices.md)
 
 ## I
 
-* [Page 3](i/page-3.md)
+* [I2P](i/ni-ming-wang-luo-anonymity-networks.md)
+* [涵盖互动式资金协议 - Interactive funding protocol](i/han-gai-hu-dong-shi-zi-jin-xie-yi-interactive-funding-protocol.md)
 
 ## J
 
-* [Page 4](j/page-4.md)
+* [联合池 - Joinpools](j/lian-he-chi-joinpools.md)
+* [即时通道  - Just-In-Time, (JIT) channels](j/ji-shi-tong-dao-justintime-jit-channels.md)
+* [即时路由  - Just-In-Time, (JIT) routing](j/ji-shi-lu-you-justintime-jit-routing.md)
 
 ## K
 
-* [Page 5](k/page-5.md)
+* [Keysend](k/keysend.md)
 
 ## L
 
-* [Page 6](l/page-6.md)
+* [大容量通道  - Large channels](l/da-rong-liang-tong-dao-large-channels.md)
+* [Libminisketch](l/libminisketch.md)
+* [流动性广告  - Liquidity advertisements](l/liu-dong-xing-guang-gao-liquidity-advertisements.md)
+* [LN-Symmetry](l/ln-symmetry.md)
+* [低 -r 研磨  - Low-r grinding](l/di-r-yan-mo-lowr-grinding.md)
 
 ## M
 
-* [Page 7](m/page-7.md)
+* [MAST](m/mast.md)
+* [Miniscript](m/miniscript.md)
+* [Minisketch](m/minisketch.md)
+* [多部分支付 - Multipart Payments](m/ji-chu-amp-base-amp.md)
+* [多路径支付 - Multipath Payments](m/ji-chu-amp-base-amp-1.md)
+* [MuSig](m/musig.md)
 
 ## N
 
@@ -141,6 +158,7 @@
 ## P
 
 * [Page 10](p/page-10.md)
+* [支付池 - Payment pools](p/lian-he-chi-joinpools.md)
 
 ## Q
 
@@ -149,14 +167,19 @@
 ## R
 
 * [可重现构建 - Reproducible builds](r/ke-zhong-xian-gou-jian-reproducible-builds.md)
+* [会合路由 - Rendez-vous Routing](r/mang-hua-lu-jing-blinded-paths.md)
+* [路径盲化 - Route Blinding](r/mang-hua-lu-jing-blinded-paths-1.md)
 
 ## S
 
 * [Page 13](s/page-13.md)
+* [自发支付  - Spontaneous payments](s/zi-fa-zhi-fu-spontaneous-payments.md)
+* [签名研磨  - Signature grinding](s/qian-ming-yan-mo-signature-grinding.md)
 
 ## T
 
 * [Page 14](t/page-14.md)
+* [Tor](t/ni-ming-wang-luo-anonymity-networks.md)
 
 ## U
 
@@ -169,6 +192,7 @@
 ## W
 
 * [Page 17](w/page-17.md)
+* [Wumbo](w/wumbo.md)
 
 ## Z
 
