@@ -55,5 +55,25 @@
 
 ## C
 
-* [Page](c/page.md)
-* [Page 1](c/page-1.md)
+* [通道公告 - Channel Announcements](c/tong-dao-gong-gao-channel-announcements.md)
+* [通道承诺升级 - Channel Commitment Upgrades](c/tong-dao-cheng-nuo-sheng-ji-channel-commitment-upgrades.md)
+* [通道阻塞攻击 - Channel Jamming Attacks](c/tong-dao-zu-sai-gong-ji-channel-jamming-attacks.md)
+* [子支付父 - Child Pays For Parent（CPFP）](c/zi-zhi-fu-fu-child-pays-for-parentcpfp.md)
+* [客户端验证 - Client-side validation](c/ke-hu-duan-yan-zheng-clientside-validation.md)
+* [集群内存池 - Cluster mempool](c/ji-qun-nei-cun-chi-cluster-mempool.md)
+* [Codex32](c/codex32.md)
+* [币混合 - CoinJoin](c/bi-hun-he-coinjoin.md)
+* [联合池 - Joinpools](c/lian-he-chi-joinpools.md)
+* [紧凑块过滤器 - Compact Block Filters](c/jin-cou-kuai-guo-lv-qi-compact-block-filters.md)
+* [紧凑块中继 - Compact Block Relay](c/jin-cou-kuai-zhong-ji-compact-block-relay.md)
+* [共识清理软分叉 - Consensus Cleanup Soft Fork](c/gong-shi-qing-li-ruan-fen-cha-consensus-cleanup-soft-fork.md)
+* [反签名 - Countersign](c/fan-qian-ming-countersign.md)
+* [契约 - Covenants](c/qi-yue-covenants.md)
+* [隐性 ASIC 提速 - Covert ASICBoost](c/yin-xing-asic-ti-su-covert-asicboost.md)
+* [CPFP 切割 - CPFP Carve Out](c/cpfp-qie-ge-cpfp-carve-out.md)
+* [通用漏洞和暴露 - CVEs，Common Vulnerabilities and Exposures](c/tong-yong-lou-dong-he-bao-lou-cvescommon-vulnerabilities-and-exposures.md)
+* [CVE-2018-17144](c/cve-2018-17144.md)
+
+## D
+
+* [Page 1](d/page-1.md)
