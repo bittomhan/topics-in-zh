@@ -81,3 +81,19 @@
 * [委托 - Delegation](d/wei-tuo-delegation.md)
 * [描述符 - Descriptors](d/miao-shu-fu-descriptors.md)
 * [离散对数合约 - Discreet Log Contracts, DLCs](d/li-san-dui-shu-he-yue-discreet-log-contracts-dlcs.md)
+* [双向资金注入 - Dual funding](d/shuang-xiang-zi-jin-zhu-ru-dual-funding.md)
+* [重复输入漏洞 - Duplicate inputs vulnerability](d/cve-2018-17144.md)
+* [粉尘 - Dust](d/fen-chen-dust.md)
+* [尘埃攻击 - Dust Attacks](d/di-zhi-zhong-yong-address-reuse.md)
+
+## E
+
+* [日蚀攻击 - Eclipse attacks](e/ri-shi-gong-ji-eclipse-attacks.md)
+* [Eltoo](e/eltoo.md)
+* [短暂锚点 - Ephemeral anchors](e/duan-zan-mao-dian-ephemeral-anchors.md)
+* [Erlay](e/erlay.md)
+* [防数据泄露的签名 - Exfiltration resistant signing](e/fang-shu-ju-xie-lou-de-qian-ming-exfiltration-resistant-signing.md)
+
+## F
+
+* [Page 1](f/page-1.md)
