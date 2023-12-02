@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Bitcoin Optech Topics in ZH
 
 共有115个主题（以及83个别名，用斜体表示具有替代名称的主题）。
