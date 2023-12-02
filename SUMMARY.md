@@ -19,7 +19,7 @@
 * [ASIC 提速 - ASICBoost](a/asic-ti-su-asicboost.md)
 * [假设 UTXO - AssumeUTXO](a/jia-she-utxo-assumeutxo.md)
 * [异步支付 - Async Payments](a/yi-bu-zhi-fu-async-payments.md)
-* [原子多路径支付 - Atomic Multipath Payments (AMPs)](a/yuan-zi-duo-lu-jing-zhi-fu-atomic-multipath-payments-amps.md)
+* [原子多路径支付 - Atomic Multipath Payments, AMPs](a/yuan-zi-duo-lu-jing-zhi-fu-atomic-multipath-payments-amps.md)
 
 ## B
 
@@ -71,9 +71,13 @@
 * [契约 - Covenants](c/qi-yue-covenants.md)
 * [隐性 ASIC 提速 - Covert ASICBoost](c/yin-xing-asic-ti-su-covert-asicboost.md)
 * [CPFP 切割 - CPFP Carve Out](c/cpfp-qie-ge-cpfp-carve-out.md)
-* [通用漏洞和暴露 - CVEs，Common Vulnerabilities and Exposures](c/tong-yong-lou-dong-he-bao-lou-cvescommon-vulnerabilities-and-exposures.md)
+* [通用漏洞和暴露 - Common Vulnerabilities and Exposures, CVEs](c/tong-yong-lou-dong-he-bao-lou-common-vulnerabilities-and-exposures-cves.md)
 * [CVE-2018-17144](c/cve-2018-17144.md)
 
 ## D
 
-* [Page 1](d/page-1.md)
+* [蒲公英协议 - Dandelion](d/pu-gong-ying-xie-yi-dandelion.md)
+* [默认最低交易中继费率 - Default minimum transaction relay feerates](d/mo-ren-zui-di-jiao-yi-zhong-ji-fei-shuai-default-minimum-transaction-relay-feerates.md)
+* [委托 - Delegation](d/wei-tuo-delegation.md)
+* [描述符 - Descriptors](d/miao-shu-fu-descriptors.md)
+* [离散对数合约 - Discreet Log Contracts, DLCs](d/li-san-dui-shu-he-yue-discreet-log-contracts-dlcs.md)
