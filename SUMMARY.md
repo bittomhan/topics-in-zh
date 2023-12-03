@@ -174,28 +174,71 @@
 * [支付批处理 - Payment Batching](p/pi-chu-li-batching.md)
 * [支付池 - Payment pools](p/lian-he-chi-joinpools.md)
 * [支付探测 - Payment probes](p/zhi-fu-tan-ce-payment-probes.md)
+* [支付秘密 - Payment secrets](p/zhi-fu-mi-mi-payment-secrets.md)
+* [对等节点存储 - Peer storage](p/dui-deng-jie-dian-cun-chu-peer-storage.md)
+* [点时间锁定合约 - Point Time Locked Contracts, PTLCs](p/dian-shi-jian-suo-ding-he-yue-point-time-locked-contracts-ptlcs.md)
+* [后量子密码学 - Post-quantum cryptography](p/hou-liang-zi-mi-ma-xue-postquantum-cryptography.md)
+* [支付证明 - Proof of payment](p/zhi-fu-zheng-ming-proof-of-payment.md)
+* [探测 - Probing](p/tan-ce-probing.md)
+* [PSBT](p/bip174-1.md)
 
 ## Q
 
-* [Page 11](q/page-11.md)
+* [量子抗性 - Quantum resistance](q/liang-zi-kang-xing-quantum-resistance.md)
 
 ## R
 
-* [可重现构建 - Reproducible builds](r/ke-zhong-xian-gou-jian-reproducible-builds.md)
+* [冗余过度支付 - Redundant Overpayments](r/hui-xuan-zhi-fu-boomerang-payments.md)
 * [会合路由 - Rendez-vous Routing](r/mang-hua-lu-jing-blinded-paths.md)
-* [路径盲化 - Route Blinding](r/mang-hua-lu-jing-blinded-paths-1.md)
+* [Replace-by-fee, RBF](r/bip125.md)
+* [可重现构建 - Reproducible builds](r/ke-zhong-xian-gou-jian-reproducible-builds.md)
+* [负责任的披露 - Responsible disclosures](r/fu-ze-ren-de-pi-lou-responsible-disclosures.md)
 * [避免重用 - Reuse Avoidance](r/di-zhi-zhong-yong-address-reuse.md)
+* [RGB](r/ke-hu-duan-yan-zheng-clientside-validation.md)
+* [路径盲化 - Route Blinding](r/mang-hua-lu-jing-blinded-paths-1.md)
 
 ## S
 
-* [Page 13](s/page-13.md)
-* [自发支付  - Spontaneous payments](s/zi-fa-zhi-fu-spontaneous-payments.md)
+* [施诺尔签名 - Schnorr signatures](s/shi-nuo-er-qian-ming-schnorr-signatures.md)
+* [无脚本多重签名 - Scriptless Multisignatures](s/er-fang-ecdsa-2pecdsa.md)
+* [无脚本脚本 - Scriptless Scripts](s/shi-pei-qi-qian-ming-adaptor-signatures.md)
+* [隔离见证 - Segregated Witness, segwit](s/ge-li-jian-zheng-segregated-witness-segwit.md)
+* [旁道攻击 - Side Channels](s/pang-dao-gong-ji-side-channels.md)
+* [侧链 - Sidechains](s/ce-lian-sidechains.md)
+* [SIGHASH\_ANYPREVOUT](s/sighash\_anyprevout.md)
+* [SIGHASH\_NOINPUT](s/sighash\_noinput.md)
+* [签名适配器 - Signature Adaptors](s/shi-pei-qi-qian-ming-adaptor-signatures-1.md)
 * [签名研磨  - Signature grinding](s/qian-ming-yan-mo-signature-grinding.md)
+* [签名者委托 - Signer delegation](s/wei-tuo-delegation.md)
+* [Signet](s/signet.md)
+* [签名消息 - Signmessage](s/bip322.md)
+* [静默支付 - Silent payments](s/jing-mo-zhi-fu-silent-payments.md)
+* [简易性 - Simplicity](s/jian-yi-xing-simplicity.md)
+* [简化承诺 - Simplified Commitments](s/mao-ding-shu-chu-anchor-outputs.md)
+* [简化多路径支付 - Simplified Multipath Payments](s/ji-chu-amp-base-amp.md)
+* [软分叉激活 - Soft Fork Activation](s/bip8.md)
+* [拼接 - Splicing](s/pin-jie-splicing.md)
+* [自发支付  - Spontaneous payments](s/zi-fa-zhi-fu-spontaneous-payments.md)
+* [状态链 - Statechains](s/zhuang-tai-lian-statechains.md)
+* [无状态发票 - Stateless invoices](s/wu-zhuang-tai-fa-piao-stateless-invoices.md)
+* [静态通道备份 - Static channel backups](s/jing-tai-tong-dao-bei-fen-static-channel-backups.md)
+* [堵塞无阻支付 - Stuckless Payments](s/hui-xuan-zhi-fu-boomerang-payments.md)
+* [潜艇交换 - Submarine swaps](s/qian-ting-jiao-huan-submarine-swaps.md)
 
 ## T
 
-* [Page 14](t/page-14.md)
+* [Taproot](t/taproot.md)
+* [Taproot Assets](t/ke-hu-duan-yan-zheng-clientside-validation.md)
+* [Tapscript](t/tapscript.md)
+* [Taro](t/ke-hu-duan-yan-zheng-clientside-validation-1.md)
+* [阈值签名 - Threshold signature](t/yu-zhi-qian-ming-threshold-signature.md)
+* [时间锁 - Timelocks](t/shi-jian-suo-timelocks.md)
 * [Tor](t/ni-ming-wang-luo-anonymity-networks.md)
+* [蹦床支付 - Trampoline payments](t/beng-chuang-zhi-fu-trampoline-payments.md)
+* [交易布隆过滤 - Transaction bloom filtering](t/bip37.md)
+* [交易起源隐私 - Transaction origin privacy](t/jiao-yi-qi-yuan-yin-si-transaction-origin-privacy.md)
+* [交易固定 - Transaction pinning](t/jiao-yi-gu-ding-transaction-pinning.md)
+* [双方 ECDSA - Two-Party ECDSA](t/er-fang-ecdsa-2pecdsa.md)
 
 ## U
 
