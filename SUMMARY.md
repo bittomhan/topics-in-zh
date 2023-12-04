@@ -32,7 +32,7 @@
 * [BIP9](b/bip9.md)
 * [BIP32](b/bip32.md)
 * [BIP37](b/bip37.md)
-* [BIP70 支付协议](b/bip70-zhi-fu-xie-yi.md)
+* [BIP70 支付协议 - BIP70 payment protocol](b/bip70-zhi-fu-xie-yi.md)
 * [BIP79](b/bip79.md)
 * [BIP93](b/bip93.md)
 * [BIP125](b/bip125.md)
