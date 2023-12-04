@@ -242,17 +242,21 @@
 
 ## U
 
-* [Page 15](u/page-15.md)
+* [未公布的通道 - Unannounced channels](u/wei-gong-bu-de-tong-dao-unannounced-channels.md)
+* [不经济的输出 - Uneconomical outputs](u/bu-jing-ji-de-shu-chu-uneconomical-outputs.md)
 
 ## V
 
-* [Page 16](v/page-16.md)
+* [金库 - Vaults](v/jin-ku-vaults.md)
+* [第二版 P2P 传输 - Version 2 P2P Transport](v/bip151.md)
+* [版本 3 交易中继 - Version 3 Transaction Relay](v/ban-ben-3-jiao-yi-zhong-ji-version-3-transaction-relay.md)
 
 ## W
 
-* [Page 17](w/page-17.md)
+* [钱包标签 - Wallet Labels](w/qian-bao-biao-qian-wallet-labels.md)
+* [守望塔 - Watchtowers](w/shou-wang-ta-watchtowers.md)
 * [Wumbo](w/wumbo.md)
 
 ## Z
 
-* [Page 18](z/page-18.md)
+* [零确认通道 - Zero-conf channels](z/ling-que-ren-tong-dao-zeroconf-channels.md)
