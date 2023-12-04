@@ -181,6 +181,7 @@
 * [支付证明 - Proof of payment](p/zhi-fu-zheng-ming-proof-of-payment.md)
 * [探测 - Probing](p/tan-ce-probing.md)
 * [PSBT](p/bip174-1.md)
+* [私有通道 - Private channels](p/si-you-tong-dao-private-channels.md)
 
 ## Q
 
@@ -244,6 +245,7 @@
 
 * [未公布的通道 - Unannounced channels](u/wei-gong-bu-de-tong-dao-unannounced-channels.md)
 * [不经济的输出 - Uneconomical outputs](u/bu-jing-ji-de-shu-chu-uneconomical-outputs.md)
+* [Utreexo](u/utreexo.md)
 
 ## V
 
