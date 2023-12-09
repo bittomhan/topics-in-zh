@@ -6,7 +6,7 @@
 
 ## 主要代码和文档
 
-* [比特币核心（Bitcoin Core）#27677: 新内存池设计](https://github.com/bitcoin/bitcoin/issues/27677)
+* [Bitcoin Core #27677: 新内存池设计](https://github.com/bitcoin/bitcoin/issues/27677)
 
 ## Optech 新闻通讯和网站提及
 

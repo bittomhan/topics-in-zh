@@ -37,15 +37,15 @@ _注意：本主题仅指 BIP37 交易布隆过滤器。在比特币中还有通
 
 **2020**
 
-* [比特币核心 #19260 断开了不适当发送 filterclear 的节点](https://bitcoinops.org/en/newsletters/2020/06/24/#bitcoin-core-19260)
+* [Bitcoin Core #19260 断开了不适当发送 filterclear 的节点](https://bitcoinops.org/en/newsletters/2020/06/24/#bitcoin-core-19260)
 
 **2019**
 
-* [比特币核心 0.19 发布，禁用了布隆过滤器](https://bitcoinops.org/en/newsletters/2019/11/27/#deprecated-or-removed-features)
-* [比特币核心 PR#16248 添加了布隆过滤器白名单选项](https://bitcoinops.org/en/newsletters/2019/08/21/#bitcoin-core-16248)
+* [Bitcoin Core 0.19 发布，禁用了布隆过滤器](https://bitcoinops.org/en/newsletters/2019/11/27/#deprecated-or-removed-features)
+* [Bitcoin Core PR#16248 添加了布隆过滤器白名单选项](https://bitcoinops.org/en/newsletters/2019/08/21/#bitcoin-core-16248)
 * [BRD 字段报告：使用布隆过滤器与原生隔离见证地址](https://bitcoinops.org/en/bech32-sending-support/#brd-field-report)
 * [邮件列表关于在比特币核心中禁用布隆过滤器的讨论](https://bitcoinops.org/en/newsletters/2019/07/31/#bloom-filter-discussion)
-* [比特币核心 PR#16152 默认禁用布隆过滤器支持](https://bitcoinops.org/en/newsletters/2019/07/24/#bitcoin-core-16152)
+* [Bitcoin Core PR#16152 默认禁用布隆过滤器支持](https://bitcoinops.org/en/newsletters/2019/07/24/#bitcoin-core-16152)
 
 ## 参见
 

@@ -13,9 +13,9 @@ _这个主题描述是一个存根。我们欢迎您通过_ [_pull request_](htt
 **2023**
 
 * [关于为静默支付地址添加过期元数据的提议](https://bitcoinops.org/en/newsletters/2023/08/16/#adding-expiration-metadata-to-silent-payment-addresses)
-* [比特币核心 PR 审查俱乐部关于 #28122 添加静默支付的总结](https://bitcoinops.org/en/newsletters/2023/08/09/#bitcoin-core-pr-review-club)
+* [Bitcoin Core PR 审查俱乐部关于 #28122 添加静默支付的总结](https://bitcoinops.org/en/newsletters/2023/08/09/#bitcoin-core-pr-review-club)
 * [静默支付的草案 BIP](https://bitcoinops.org/en/newsletters/2023/06/14/#draft-bip-for-silent-payments)
-* [比特币核心开发者面对面会议的总结](https://bitcoinops.org/en/newsletters/2023/05/17/#summaries-of-bitcoin-core-developers-in-person-meeting)
+* [Bitcoin Core 开发者面对面会议的总结](https://bitcoinops.org/en/newsletters/2023/05/17/#summaries-of-bitcoin-core-developers-in-person-meeting)
 
 **2022**
 

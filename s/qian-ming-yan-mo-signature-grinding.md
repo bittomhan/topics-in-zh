@@ -23,7 +23,7 @@ description: 也涵盖低 -r 研磨 (Low-r grinding)
 
 **2018**
 
-* [比特币核心钱包开始只创建低 -r 签名](https://bitcoinops.org/en/newsletters/2018/08/14/#bitcoin-core-wallet-to-begin-only-creating-low-r-signatures)
+* [Bitcoin Core 钱包开始只创建低 -r 签名](https://bitcoinops.org/en/newsletters/2018/08/14/#bitcoin-core-wallet-to-begin-only-creating-low-r-signatures)
 
 ## 参见
 

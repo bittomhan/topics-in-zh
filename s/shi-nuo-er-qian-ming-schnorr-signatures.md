@@ -29,7 +29,7 @@ Schnorr 在与 [ECDSA（Elliptic Curve Digital Signature Algorithm）](https://e
 **2020**
 
 * [2020 年回顾：Taproot、Tapscript 和 Schnorr 签名](https://bitcoinops.org/en/newsletters/2020/12/23/#taproot)
-* [比特币核心 #19953 合并了 BIP340 的共识实现](https://bitcoinops.org/en/newsletters/2020/10/21/#bitcoin-core-19953)
+* [Bitcoin Core  #19953 合并了 BIP340 的共识实现](https://bitcoinops.org/en/newsletters/2020/10/21/#bitcoin-core-19953)
 * [Libsecp256k1 #558 实现了 Schnorr 签名的验证和签名](https://bitcoinops.org/en/newsletters/2020/09/16/#libsecp256k1-558)
 * [BIPs #982 更新 BIP340 使用均匀性分解器和标记哈希](https://bitcoinops.org/en/newsletters/2020/09/02/#bips-982)
 * [提议更新 BIP340 Schnorr 签名以使用均匀性分解器](https://bitcoinops.org/en/newsletters/2020/08/19/#proposed-uniform-tiebreaker-in-schnorr-signatures)

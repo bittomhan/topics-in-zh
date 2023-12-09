@@ -18,7 +18,7 @@
 
 **2023**
 
-* [比特币核心 #27213 将尝试在每个可达网络上开启并维持一个连接](https://bitcoinops.org/en/newsletters/2023/08/16/#bitcoin-core-27213)
+* [Bitcoin Core #27213 将尝试在每个可达网络上开启并维持一个连接](https://bitcoinops.org/en/newsletters/2023/08/16/#bitcoin-core-27213)
 
 **2021**
 
@@ -28,16 +28,16 @@
 **2020**
 
 * [2020 年回顾：针对闪电网络节点的快速日蚀攻击](https://bitcoinops.org/en/newsletters/2020/12/23/#fast-ln-eclipse-attacks)
-* [比特币核心 PR #19858 改进了对日蚀攻击的隔离阻力](https://bitcoinops.org/en/newsletters/2020/12/16/#bitcoin-core-19858)
+* [Bitcoin Core PR #19858 改进了对日蚀攻击的隔离阻力](https://bitcoinops.org/en/newsletters/2020/12/16/#bitcoin-core-19858)
 * [关于 PR #19858 的评论会议，使日蚀攻击更加困难](https://bitcoinops.org/en/newsletters/2020/12/09/#bitcoin-core-pr-review-club)
 * [Eclair #1545 添加了多个头部来源以使日蚀攻击更加困难](https://bitcoinops.org/en/newsletters/2020/11/11/#eclair-1545)
 * [CVE-2018-17145 InvDoS 攻击本可用于日蚀节点](https://bitcoinops.org/en/newsletters/2020/09/16/#inventory-out-of-memory-denial-of-service-attack-invdos)
-* [比特币核心 #19670 为仅区块传输的对等方保留了入站槽位](https://bitcoinops.org/en/newsletters/2020/09/09/#bitcoin-core-19670)
+* [Bitcoin Core #19670 为仅区块传输的对等方保留了入站槽位](https://bitcoinops.org/en/newsletters/2020/09/09/#bitcoin-core-19670)
 * [时间扩张攻击：使用日蚀攻击窃取闪电网络节点的资金](https://bitcoinops.org/en/newsletters/2020/06/10/#time-dilation-attacks-against-ln)
-* [比特币核心 0.20 发布，包含提高日蚀防御的 asmap 特性](https://bitcoinops.org/en/newsletters/2020/06/10/#bitcoin-core-0-20-0)
+* [Bitcoin Core 0.20 发布，包含提高日蚀防御的 asmap 特性](https://bitcoinops.org/en/newsletters/2020/06/10/#bitcoin-core-0-20-0)
 * [关于攻击比特币核心的演讲，包括使用日蚀攻击](https://bitcoinops.org/en/newsletters/2020/05/06/#attacking-bitcoin-core)
-* [比特币核心 #17428 锚定连接的评论会议讨论](https://bitcoinops.org/en/newsletters/2020/03/11/#bitcoin-core-pr-review-club)
-* [比特币核心 #16702 基于 ASN 而不是 IP 地址前缀选择对等方](https://bitcoinops.org/en/newsletters/2020/02/05/#bitcoin-core-16702)
+* [Bitcoin Core #17428 锚定连接的评论会议讨论](https://bitcoinops.org/en/newsletters/2020/03/11/#bitcoin-core-pr-review-club)
+* [Bitcoin Core #16702 基于 ASN 而不是 IP 地址前缀选择对等方](https://bitcoinops.org/en/newsletters/2020/02/05/#bitcoin-core-16702)
 
 **2019**
 

@@ -10,7 +10,7 @@ description: 也涵盖 Gitian 和 Guix
 
 ## 主要代码和文档
 
-* [比特币核心 PR #15277：启用在 Guix 容器中构建](https://github.com/bitcoin/bitcoin/pull/15277)
+* [Bitcoin Core PR #15277：启用在 Guix 容器中构建](https://github.com/bitcoin/bitcoin/pull/15277)
 
 ## Optech 新闻简报和网站提及
 
@@ -20,14 +20,14 @@ description: 也涵盖 Gitian 和 Guix
 
 **2021**
 
-* [比特币核心 #22642 允许连接基于 Guix 的证明，以进行批量验证](https://bitcoinops.org/en/newsletters/2021/08/18/#bitcoin-core-22642)
+* [Bitcoin Core #22642 允许连接基于 Guix 的证明，以进行批量验证](https://bitcoinops.org/en/newsletters/2021/08/18/#bitcoin-core-22642)
 * [问题：Guix 在 Gitian 中的作用是什么？](https://bitcoinops.org/en/newsletters/2021/07/28/#what-s-the-purpose-of-using-guix-within-gitian-doesn-t-that-reintroduce-dependencies-and-security-concerns)
-* [比特币核心 #21462 添加用于证明基于 Guix 构建的工具](https://bitcoinops.org/en/newsletters/2021/05/19/#bitcoin-core-21462)
-* [比特币核心 #17920 为 macOS 构建添加 Guix 支持](https://bitcoinops.org/en/newsletters/2021/01/27/#bitcoin-core-17920)
+* [Bitcoin Core #21462 添加用于证明基于 Guix 构建的工具](https://bitcoinops.org/en/newsletters/2021/05/19/#bitcoin-core-21462)
+* [Bitcoin Core #17920 为 macOS 构建添加 Guix 支持](https://bitcoinops.org/en/newsletters/2021/01/27/#bitcoin-core-17920)
 
 **2020**
 
-* [比特币核心 #17595 为 Windows 构建添加 Guix 支持](https://bitcoinops.org/en/newsletters/2020/04/22/#bitcoin-core-17595)
+* [Bitcoin Core #17595 为 Windows 构建添加 Guix 支持](https://bitcoinops.org/en/newsletters/2020/04/22/#bitcoin-core-17595)
 * [Eclair #1307 更新打包以可重现构建 Eclair GUI](https://bitcoinops.org/en/newsletters/2020/03/04/#eclair-1307)
 * [Eclair #1295 允许 eclair-core 模块可重现构建](https://bitcoinops.org/en/newsletters/2020/02/05/#eclair-1295)
 
@@ -36,7 +36,7 @@ description: 也涵盖 Gitian 和 Guix
 * [2019 年回顾：可重现构建](https://bitcoinops.org/en/newsletters/2019/12/28/#reproducibility)
 * [合并 PR，使用 GNU Guix 可重现构建比特币核心](https://bitcoinops.org/en/newsletters/2019/07/17/#bitcoin-core-15277)
 * [Breaking Bitcoin 总结：比特币构建系统安全性](https://bitcoinops.org/en/newsletters/2019/06/19/#bitcoin-build-system-security)
-* [比特币核心新的可重现构建架构和 Snap 包](https://bitcoinops.org/en/newsletters/2019/05/07/#new-architecture-and-new-ubuntu-snap-package)
+* [Bitcoin Core 新的可重现构建架构和 Snap 包](https://bitcoinops.org/en/newsletters/2019/05/07/#new-architecture-and-new-ubuntu-snap-package)
 * [值得注意的比特币核心 PR：使用 GNU Guix 实现可重现构建](https://bitcoinops.org/en/newsletters/2019/02/19/#bitcoin-core-freeze-week)
 
 ## 参见

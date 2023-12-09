@@ -37,7 +37,7 @@ description: 也涵盖反费用狙击 （Anti Fee Sniping）
 
 ## 主要代码和文档
 
-* [比特币核心 #2340：使用 nLockTime 阻止费用狙击](https://github.com/bitcoin/bitcoin/pull/2340)
+* [Bitcoin Core #2340：使用 nLockTime 阻止费用狙击](https://github.com/bitcoin/bitcoin/pull/2340)
 * [在Taproot交易中使用nSequence进行反费用狙击保护](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019048.html)
 
 ## Optech 新闻简报和网站提及

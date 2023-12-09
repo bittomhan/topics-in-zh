@@ -28,7 +28,7 @@ _此主题描述是一个存根。我们欢迎提供更多关于该主题背景�
 * [HD 钱包恢复中零 HTLC 费用锚定输出协议的复杂性](https://bitcoinops.org/en/newsletters/2021/09/29/#challenges-recovering-ln-close-transactions-using-only-a-seed)
 * [实现 Taproot 接收支持不需要更改 BIP32 派生](https://bitcoinops.org/en/newsletters/2021/07/14/#preparing-for-taproot-4-from-p2wpkh-to-single-sig-p2tr)
 * [提出用于单签 P2TR 的 BIP32 密钥派生路径](https://bitcoinops.org/en/newsletters/2021/06/30/#key-derivation-path-for-single-sig-p2tr)
-* [比特币核心 #22095 添加测试以确保正确填充 BIP32 派生的密钥](https://bitcoinops.org/en/newsletters/2021/06/09/#bitcoin-core-22095)
+* [Bitcoin Core #22095 添加测试以确保正确填充 BIP32 派生的密钥](https://bitcoinops.org/en/newsletters/2021/06/09/#bitcoin-core-22095)
 * [BIPs #1097 为多签钱包设置过程中交换 xpubs 的提案分配了 BIP129](https://bitcoinops.org/en/newsletters/2021/05/26/#bips-1097)
 * [BIPs #1089 为多签钱包的标准化 BIP32 路径的提案分配了 BIP87](https://bitcoinops.org/en/newsletters/2021/05/26/#bips-1089)
 * [仅使用 BIP32 种子关闭丢失的 LN 通道](https://bitcoinops.org/en/newsletters/2021/05/05/#closing-lost-channels-with-only-a-bip32-seed)
@@ -50,7 +50,7 @@ _此主题描述是一个存根。我们欢迎提供更多关于该主题背景�
 
 **2018**
 
-* [比特币核心 #14150 为描述符添加了密钥来源支持，用于跟踪 BIP32 xpubs](https://bitcoinops.org/en/newsletters/2018/10/30/#bitcoin-core-14150)
+* [Bitcoin Core #14150 为描述符添加了密钥来源支持，用于跟踪 BIP32 xpubs](https://bitcoinops.org/en/newsletters/2018/10/30/#bitcoin-core-14150)
 
 ## 参见
 

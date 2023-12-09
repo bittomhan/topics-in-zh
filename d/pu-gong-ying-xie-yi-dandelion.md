@@ -18,7 +18,7 @@ description: 也涵盖 BIP156
 
 * [Erlay 与 BIP156 兼容](https://bitcoinops.org/en/newsletters/2019/06/05/#erlay-proposed)
 * [需要更多审查或开发的 PR](https://bitcoinops.org/en/newsletters/2019/02/19/#bitcoin-core-freeze-week)
-* [比特币核心中 BIP156 蒲公英实施的难点是什么？](https://bitcoinops.org/en/newsletters/2019/01/29/#what-s-the-hold-up-implementing-bip156-dandelion-in-bitcoin-core)
+* [Bitcoin Core 中 BIP156 蒲公英实施的难点是什么？](https://bitcoinops.org/en/newsletters/2019/01/29/#what-s-the-hold-up-implementing-bip156-dandelion-in-bitcoin-core)
 
 **2018**
 

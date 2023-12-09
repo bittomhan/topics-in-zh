@@ -50,7 +50,7 @@ description: 也涵盖软分叉激活（Soft Fork Activation）和 BIP8
 
 2014 年 9 月，Pieter Wuill [发现](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009697.html) OpenSSL 在不同平台处理 DER 编码签名的方式存在分歧。例如，这可以被用来创建一个在 Linux 上验证成功但在 Windows 上失败的区块，从而使攻击者能够创建针对性的链分叉。Wuille 和其他几名开发者私下开发了一个软分叉的补丁，以确保所有签名使用相同的格式。为此更改创建的 BIP66 在公开宣传时被描述为朝着消除比特币对 OpenSSL 依赖的一步（这是一个真实目标，并最终在 2019 年[实现](https://bitcoinops.org/en/newsletters/2019/12/28/#openssl)）。在 BIP66 获得用户和开发者的足够支持后——包括许多不知道安全漏洞的人——它使用与 BIP34 相同的 ISM 激活机制发布，将区块版本增加到 v3，并要求在达到 95% 阈值时拒绝所有 v2 或更低版本的区块。
 
-75% 的阈值在 359,753 区块高度达到。2015 年 7 月 4 日，在 363,725 区块达到 95% 阈值，所有运行[比特币核心版本 0.10.0](https://bitcoin.org/en/release/v0.10.0#bip-66-strict-der-encoding-for-signatures) 或更高版本（或兼容实现）的节点开始强制执行新规则。然而，在 363,731 区块高度，一个未升级的矿工生产了一个不包含正确区块版本的区块，因此不符合新的 ISM 激活规则。其他矿工在这个无效区块之上构建，最终产生了一个包含六个无效区块的链。这意味着未升级的节点和许多轻量级客户端将第一个无效区块中的 96 笔交易视为已经获得了六次确认，尽管它们在有效区块中甚至没有被确认过一次。最终，开发者们能够联系矿池运营商，让他们手动重置他们的软件回到有效链。第二天发生了第二次此类事件，给交易带来了三次虚假确认。幸运的是，两个无效链中的所有常规交易后来都在有效区块中得到了确认，这意味着没有普通用户因此损失资金。
+75% 的阈值在 359,753 区块高度达到。2015 年 7 月 4 日，在 363,725 区块达到 95% 阈值，所有运行[Bitcoin Core version 0.10.0](https://bitcoin.org/en/release/v0.10.0#bip-66-strict-der-encoding-for-signatures) 或更高版本（或兼容实现）的节点开始强制执行新规则。然而，在 363,731 区块高度，一个未升级的矿工生产了一个不包含正确区块版本的区块，因此不符合新的 ISM 激活规则。其他矿工在这个无效区块之上构建，最终产生了一个包含六个无效区块的链。这意味着未升级的节点和许多轻量级客户端将第一个无效区块中的 96 笔交易视为已经获得了六次确认，尽管它们在有效区块中甚至没有被确认过一次。最终，开发者们能够联系矿池运营商，让他们手动重置他们的软件回到有效链。第二天发生了第二次此类事件，给交易带来了三次虚假确认。幸运的是，两个无效链中的所有常规交易后来都在有效区块中得到了确认，这意味着没有普通用户因此损失资金。
 
 在 363,731 高度的最初无效区块是每天预期的大约 5% 无效区块之一，这仅仅是因为使用了旧版本号。下一个区块由另一个未升级的矿工生产的概率也是 5%，或累积概率为 `5% * 5% = 0.25%`。在假设 95% 的矿工已经升级的前提下，连续六个区块都由过时的矿工生产的累积概率是 0.000002%——但在这里不是非常不幸的运气是罪魁祸首。未考虑的是矿工进行 _无验证挖矿_（validationless mining），这是一种效率优化，矿工会在完成接收和验证新区块之前就基于新区块的头部构建。虽然理论上无验证挖矿软件可以轻松处理无效的区块版本，但这个功能并没有在创造了 #363,731 之后五个区块的矿工使用的软件中实现。最终，足够多的矿工改进了他们的无验证挖矿软件或升级了他们的节点，与 BIP66 激活相关的意外链分叉停止发生。
 
@@ -139,7 +139,7 @@ BIP8 的灵活性使其能够用于比较针对拟议的 [taproot](https://bitco
 * [鼓励矿工开始为 Taproot 标记准备就绪](https://bitcoinops.org/en/newsletters/2021/05/05/#miners-encouraged-to-start-signaling-for-taproot)
 * [发布准备激活 Taproot 的比特币核心 0.21.1 版本](https://bitcoinops.org/en/newsletters/2021/05/05/#bitcoin-core-0-21-1)
 * [BIPs #1104 向 BIP341 Taproot 规范中添加了激活参数](https://bitcoinops.org/en/newsletters/2021/05/05/#bips-1104)
-* [比特币核心 #21377 和#21686 添加了 Taproot 激活机制和参数](https://bitcoinops.org/en/newsletters/2021/04/21/#bitcoin-core-21377)
+* [Bitcoin Core #21377 和#21686 添加了 Taproot 激活机制和参数](https://bitcoinops.org/en/newsletters/2021/04/21/#bitcoin-core-21377)
 * [关于埋藏过去软分叉部署的 PR 审查俱乐部讨论](https://bitcoinops.org/en/newsletters/2021/04/14/#bitcoin-core-pr-review-club)
 * [提议使用 MTP 与快速审判激活 Taproot 的妥协方案](https://bitcoinops.org/en/newsletters/2021/04/14/#taproot-activation-discussion)
 * [Taproot 激活邮件列表讨论；提议进行快速审判尝试](https://bitcoinops.org/en/newsletters/2021/03/10/#taproot-activation-discussion)
@@ -156,7 +156,7 @@ BIP8 的灵活性使其能够用于比较针对拟议的 [taproot](https://bitco
 * [不同软分叉激活机制的比较问答](https://bitcoinops.org/en/newsletters/2020/12/16/#how-do-bip8-and-bip9-differ-how-are-they-alike)
 * [列出矿工支持 Taproot 激活的网站](https://bitcoinops.org/en/newsletters/2020/11/25/#website-listing-miner-support-for-taproot-activation)
 * [发布了开发者对软分叉激活的偏好调查](https://bitcoinops.org/en/newsletters/2020/11/04/#taproot-activation-survey-results)
-* [比特币核心 #19953 添加了 Taproot 代码；激活仍在讨论中](https://bitcoinops.org/en/newsletters/2020/10/21/#bitcoin-core-19953)
+* [Bitcoin Core #19953 添加了 Taproot 代码；激活仍在讨论中](https://bitcoinops.org/en/newsletters/2020/10/21/#bitcoin-core-19953)
 * [作为 BIP8 一部分实施的“意外版本”警告变更](https://bitcoinops.org/en/newsletters/2020/10/07/#bitcoin-core-19898)
 * [关于隔离见证激活历史和 Taproot 想法的对话](https://bitcoinops.org/en/newsletters/2020/09/02/#taproot-activation)
 * [在新的 IRC 聊天室和邮件列表上进行的 Taproot 激活讨论](https://bitcoinops.org/en/newsletters/2020/07/22/#taproot-activation-discussions)
@@ -167,7 +167,7 @@ BIP8 的灵活性使其能够用于比较针对拟议的 [taproot](https://bitco
 
 **2019**
 
-* [比特币核心中硬编码的之前软分叉的激活高度](https://bitcoinops.org/en/newsletters/2019/08/21/#hardcoded-previous-soft-fork-activation-blocks)
+* [Bitcoin Core 中硬编码的之前软分叉的激活高度](https://bitcoinops.org/en/newsletters/2019/08/21/#hardcoded-previous-soft-fork-activation-blocks)
 * [草案 Taproot 提案故意省略激活机制](https://bitcoinops.org/en/newsletters/2019/05/14/#no-activation-mechanism-specified)
 * [共识清理软分叉提案（计划采用 BIP9 激活）](https://bitcoinops.org/en/newsletters/2019/03/05/#cleanup-soft-fork-proposal)
 * [关于概率性软分叉激活（“sporks”）的演讲](https://bitcoinops.org/en/newsletters/2019/02/05/#probabilistic-bitcoin-soft-forks-sporks)

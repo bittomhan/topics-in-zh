@@ -15,7 +15,7 @@ ASIC 提速可以以两种形式实现：
 
 ## 主要代码和文档
 
-* [AsicBoost ——比特币挖矿的速度提升](https://arxiv.org/abs/1604.00575)
+* [AsicBoost —— 比特币挖矿的速度提升](https://arxiv.org/abs/1604.00575)
 
 ## Optech 新闻简报和网站提及
 
@@ -25,7 +25,7 @@ ASIC 提速可以以两种形式实现：
 
 **2019**
 
-* [比特币核心 #15471 移除由显性 ASIC 提速使用错误触发的警告](https://bitcoinops.org/en/newsletters/2019/03/05/#bitcoin-core-15471)
+* [Bitcoin Core #15471 移除由显性 ASIC 提速使用错误触发的警告](https://bitcoinops.org/en/newsletters/2019/03/05/#bitcoin-core-15471)
 
 **2018**
 

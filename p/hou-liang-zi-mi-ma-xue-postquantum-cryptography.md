@@ -33,7 +33,7 @@ description: 也涵盖量子抗性（Quantum resistance）
 **2019**
 
 * [关于哈希公钥是否真的提供量子抗性的问题](https://bitcoinops.org/en/newsletters/2019/10/30/#why-does-hashing-public-keys-not-actually-provide-any-quantum-resistance)
-* [比特币核心贡献者会议记录：Taproot 量子讨论](https://bitcoinops.org/en/newsletters/2019/06/12/#taproot-accumulator-quantum)
+* [Bitcoin Core 贡献者会议记录：Taproot 量子讨论](https://bitcoinops.org/en/newsletters/2019/06/12/#taproot-accumulator-quantum)
 
 **2018**
 

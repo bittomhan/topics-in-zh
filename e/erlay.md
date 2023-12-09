@@ -18,7 +18,7 @@ Erlay 比当前协议更好地适应更大数量的对等节点，使得节点�
 **2022**
 
 * [关于不一致的内存池及其如何影响 Erlay 的讨论](https://bitcoinops.org/en/newsletters/2022/11/02/#better-peering-involves-tradeoffs)
-* [比特币核心 #23443 添加了用于 Erlay 的 `sendtxrcncl` 协商消息](https://bitcoinops.org/en/newsletters/2022/10/26/#bitcoin-core-23443)
+* [Bitcoin Core #23443 添加了用于 Erlay 的 `sendtxrcncl` 协商消息](https://bitcoinops.org/en/newsletters/2022/10/26/#bitcoin-core-23443)
 * [BIPs #1370 更新了 Erlay 的 BIP330 规范](https://bitcoinops.org/en/newsletters/2022/10/05/#bips-1370)
 * [PR 评论会：#23443 实现 Erlay 支持信号](https://bitcoinops.org/en/newsletters/2022/01/12/#bitcoin-core-pr-review-club)
 

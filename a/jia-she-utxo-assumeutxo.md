@@ -14,14 +14,14 @@
 **2023**
 
 * [在计算 UTXO 集合哈希时发现的比特币核心错误](https://bitcoinops.org/en/newsletters/2023/10/25/#bitcoin-utxo-set-summary-hash-replacement)
-* [比特币核心 #27596 添加了假设有效的快照链状态和后台完整验证同步](https://bitcoinops.org/en/newsletters/2023/10/11/#bitcoin-core-27596)
-* [比特币核心开发者面对面会议的总结](https://bitcoinops.org/en/newsletters/2023/05/17/#summaries-of-bitcoin-core-developers-in-person-meeting)
-* [比特币核心 #25740 允许后台验证引导 UTXO 状态](https://bitcoinops.org/en/newsletters/2023/03/15/#bitcoin-core-25740)
+* [Bitcoin Core #27596 添加了假设有效的快照链状态和后台完整验证同步](https://bitcoinops.org/en/newsletters/2023/10/11/#bitcoin-core-27596)
+* [Bitcoin Core 开发者面对面会议的总结](https://bitcoinops.org/en/newsletters/2023/05/17/#summaries-of-bitcoin-core-developers-in-person-meeting)
+* [Bitcoin Core #25740 允许后台验证引导 UTXO 状态](https://bitcoinops.org/en/newsletters/2023/03/15/#bitcoin-core-25740)
 
 **2021**
 
-* [比特币核心 #23155 扩展了 `dumptxoutset` RPC，增加了新信息](https://bitcoinops.org/en/newsletters/2021/12/08/#bitcoin-core-23155)
-* [比特币核心 #19521 简化了为旧区块生成 UTXO 集合哈希的过程](https://bitcoinops.org/en/newsletters/2021/05/05/#bitcoin-core-19521)
+* [Bitcoin Core #23155 扩展了 `dumptxoutset` RPC，增加了新信息](https://bitcoinops.org/en/newsletters/2021/12/08/#bitcoin-core-23155)
+* [Bitcoin Core #19521 简化了为旧区块生成 UTXO 集合哈希的过程](https://bitcoinops.org/en/newsletters/2021/05/05/#bitcoin-core-19521)
 * [为跟踪 UTXO 状态哈希添加了 MuHash 函数](https://bitcoinops.org/en/newsletters/2021/01/13/#bitcoin-core-19055)
 
 **2020**
@@ -36,5 +36,5 @@
 
 ## 参见
 
-* [比特币核心问题 #15605: 假设 UTXO 讨论](https://github.com/bitcoin/bitcoin/issues/15605)
+* [Bitcoin Core 问题 #15605: 假设 UTXO 讨论](https://github.com/bitcoin/bitcoin/issues/15605)
 * [\[bitcoin-dev\] 假设 UTXO 和 UTXO 快照](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-April/016825.html)

@@ -12,7 +12,7 @@ description: 也涵盖祖先费率挖矿（Ancestor Feerate Mining）
 
 ## 主要代码与文档
 
-* [比特币核心的内存池和挖矿](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Mempool-and-mining)
+* [Bitcoin Core 的内存池和挖矿](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Mempool-and-mining)
 * [Bitcoin Core #7600：祖先费率挖矿](https://github.com/bitcoin/bitcoin/pull/7600)
 
 ## Optech 新闻稿和网站提及

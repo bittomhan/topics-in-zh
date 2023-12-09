@@ -28,25 +28,25 @@ description: 也涵盖输出链接（Output Linking）、尘埃攻击（Dust Att
 **2021**
 
 * [为 Taproot 准备：新输出脚本对输出链接的影响](https://bitcoinops.org/en/newsletters/2021/10/06/#preparing-for-taproot-16-output-linking)
-* [比特币核心 #23065 允许钱包持久性阻止花费垃圾 UTXO](https://bitcoinops.org/en/newsletters/2021/10/06/#bitcoin-core-23065)
+* [Bitcoin Core #23065 允许钱包持久性阻止花费垃圾 UTXO](https://bitcoinops.org/en/newsletters/2021/10/06/#bitcoin-core-23065)
 * [重用基于哈希的地址不提供量子抵抗](https://bitcoinops.org/en/newsletters/2021/03/24/#hashes-not-currently-doing-a-good-job-at-qc-resistance)
 
 **2020**
 
 * [2020 年度回顾：交易来源隐私](https://bitcoinops.org/en/newsletters/2020/12/23/#transaction-origin-privacy)
-* [比特币核心 #17843 修复了与 `avoid_reuse` 标志相关的余额差异](https://bitcoinops.org/en/newsletters/2020/01/22/#bitcoin-core-17843)
-* [比特币核心 #17621 修复了 `avoid_reuse` 标志可能导致的潜在隐私泄露](https://bitcoinops.org/en/newsletters/2020/01/15/#bitcoin-core-17621)
+* [Bitcoin Core #17843 修复了与 `avoid_reuse` 标志相关的余额差异](https://bitcoinops.org/en/newsletters/2020/01/22/#bitcoin-core-17843)
+* [Bitcoin Core #17621 修复了 `avoid_reuse` 标志可能导致的潜在隐私泄露](https://bitcoinops.org/en/newsletters/2020/01/15/#bitcoin-core-17621)
 
 **2019**
 
-* [比特币核心 0.19 新功能：`avoid_reuse` 钱包标志](https://bitcoinops.org/en/newsletters/2019/11/27/#optional-privacy-preserving-address-management)
-* [比特币核心 #13756 添加了 `avoid_reuse` 钱包标志](https://bitcoinops.org/en/newsletters/2019/06/26/#bitcoin-core-13756)
+* [Bitcoin Core 0.19 新功能：`avoid_reuse` 钱包标志](https://bitcoinops.org/en/newsletters/2019/11/27/#optional-privacy-preserving-address-management)
+* [Bitcoin Core #13756 添加了 `avoid_reuse` 钱包标志](https://bitcoinops.org/en/newsletters/2019/06/26/#bitcoin-core-13756)
 * [Esplora 区块浏览器更新，针对地址重用提出隐私警告](https://bitcoinops.org/en/newsletters/2019/03/19/#esplora-updated)
 * [在重用地址中发现的弱签名随机数](https://bitcoinops.org/en/newsletters/2019/01/15/#weak-signature-nonces-discovered)
 
 **2018**
 
-* [比特币核心 #12257：新的 `avoidpartialspends` 配置选项](https://bitcoinops.org/en/newsletters/2018/07/31/#bitcoin-core-12257)
+* [Bitcoin Core #12257：新的 `avoidpartialspends` 配置选项](https://bitcoinops.org/en/newsletters/2018/07/31/#bitcoin-core-12257)
 
 ## 参见
 

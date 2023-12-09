@@ -25,7 +25,7 @@ ASIC 提速可以以两种形式实现：
 
 **2019**
 
-* [比特币核心 #15471 移除由显性 ASIC 提速使用错误触发的警告](https://bitcoinops.org/en/newsletters/2019/03/05/#bitcoin-core-15471)
+* [Bitcoin Core #15471 移除由显性 ASIC 提速使用错误触发的警告](https://bitcoinops.org/en/newsletters/2019/03/05/#bitcoin-core-15471)
 
 **2018**
 

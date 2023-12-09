@@ -40,7 +40,7 @@
 
 **2018**
 
-* [比特币核心 0.16.1 停止中继使用 `OP_CODESEPARATOR` 的交易](https://bitcoinops.org/en/newsletters/2018/06/08/#check-for-use-of-the-codeseparator-opcode)
+* [Bitcoin Core 0.16.1 停止中继使用 `OP_CODESEPARATOR` 的交易](https://bitcoinops.org/en/newsletters/2018/06/08/#check-for-use-of-the-codeseparator-opcode)
 
 ## 参见
 

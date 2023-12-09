@@ -28,7 +28,7 @@ description: 也涵盖批处理（Batching）
 
 * [BOLTs #803 增加了使用批次安全结算 HTLCs 的建议](https://bitcoinops.org/en/newsletters/2020/12/16/#bolts-803)
 * [Sparrow 钱包增加了支付批处理支持](https://bitcoinops.org/en/newsletters/2020/11/18/#sparrow-wallet-adds-payment-batching-and-payjoin)
-* [比特币核心 #16378 为钱包添加了一个支持批处理的新 RPC](https://bitcoinops.org/en/newsletters/2020/09/23/#bitcoin-core-16378)
+* [Bitcoin Core #16378 为钱包添加了一个支持批处理的新 RPC](https://bitcoinops.org/en/newsletters/2020/09/23/#bitcoin-core-16378)
 * [C-Lightning #3812 为其链上钱包增加了批处理支持](https://bitcoinops.org/en/newsletters/2020/09/16/#c-lightning-3812)
 * [C-Lightning #3763 添加了批量开放通道的新 RPC](https://bitcoinops.org/en/newsletters/2020/09/16/#c-lightning-3763)
 * [Specter 桌面增加了支付批处理支持](https://bitcoinops.org/en/newsletters/2020/08/19/#specter-desktop-adds-batching)

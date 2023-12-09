@@ -10,7 +10,7 @@ description: 也涵盖不经济的输出（Uneconomical outputs）
 
 ## 主要代码和文档
 
-* [比特币核心粉尘限制代码注释](https://github.com/bitcoin/bitcoin/blob/439e58c4d8194ca37f70346727d31f52e69592ec/src/policy/policy.cpp#L14)
+* [Bitcoin Core 粉尘限制代码注释](https://github.com/bitcoin/bitcoin/blob/439e58c4d8194ca37f70346727d31f52e69592ec/src/policy/policy.cpp#L14)
 
 ## Optech 新闻简报和网站提及
 
@@ -27,7 +27,7 @@ description: 也涵盖不经济的输出（Uneconomical outputs）
 **2021**
 
 * [关于为特定情况取消粉尘限制的讨论](https://bitcoinops.org/en/newsletters/2021/12/15/#adding-a-special-exception-for-certain-uneconomical-outputs)
-* [比特币核心 #22863 记录了 P2TR 粉尘金额](https://bitcoinops.org/en/newsletters/2021/10/20/#bitcoin-core-22863)
+* [Bitcoin Core #22863 记录了 P2TR 粉尘金额](https://bitcoinops.org/en/newsletters/2021/10/20/#bitcoin-core-22863)
 * [BOLTs #894 规定了与 LN 中不经济支付相关的各种检查](https://bitcoinops.org/en/newsletters/2021/10/20/#bolts-894)
 * [多个 LN 实现对不经济支出的 CVE 漏洞易受攻击](https://bitcoinops.org/en/newsletters/2021/10/13/#ln-spend-to-fees-cve)
 * [多个实现了 BOLTs #894 的 LN，允许使用更低的承诺交易粉尘限制](https://bitcoinops.org/en/newsletters/2021/10/06/#eclair-1900)

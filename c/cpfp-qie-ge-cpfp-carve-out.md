@@ -7,7 +7,7 @@
 ## 主要代码和文档
 
 * [CPFP 切割提案](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-November/016518.html)
-* [比特币核心 PR#15681：\[内存池\] 允许每个包多一个单祖先交易](https://github.com/bitcoin/bitcoin/pull/15681)
+* [Bitcoin Core PR#15681：\[内存池\] 允许每个包多一个单祖先交易](https://github.com/bitcoin/bitcoin/pull/15681)
 
 ## Optech 新闻通讯和网站提及
 
@@ -17,11 +17,11 @@
 
 **2019**
 
-* [比特币核心 0.19 发布，包含 CPFP 切割](https://bitcoinops.org/en/newsletters/2019/11/27/#cpfp-carve-out)
+* [Bitcoin Core 0.19 发布，包含 CPFP 切割](https://bitcoinops.org/en/newsletters/2019/11/27/#cpfp-carve-out)
 * [关于使用 CPFP 切割的 LN 锚定输出的持续讨论](https://bitcoinops.org/en/newsletters/2019/11/06/#continued-discussion-of-ln-anchor-outputs)
 * [使用 CPFP 切割的 LN 简化承诺](https://bitcoinops.org/en/newsletters/2019/10/30/#ln-simplified-commitments)
-* [比特币核心 #16421 合并，允许切割被 RBF 替换](https://bitcoinops.org/en/newsletters/2019/09/11/#bitcoin-core-16421)
-* [比特币核心 #15681 合并，包含 CPFP 切割](https://bitcoinops.org/en/newsletters/2019/07/24/#bitcoin-core-15681)
+* [Bitcoin Core #16421 合并，允许切割被 RBF 替换](https://bitcoinops.org/en/newsletters/2019/09/11/#bitcoin-core-16421)
+* [Bitcoin Core #15681 合并，包含 CPFP 切割](https://bitcoinops.org/en/newsletters/2019/07/24/#bitcoin-core-15681)
 * [提议覆盖一些 BIP125 条件，替代切割方案](https://bitcoinops.org/en/newsletters/2019/06/12/#proposal-to-override-some-bip125-rbf-conditions)
 
 **2018**
@@ -33,4 +33,4 @@
 * [交易固定（Transaction pinning）](https://bitcoinops.org/en/topics/transaction-pinning/)
 * [锚定输出（Anchor outputs）](https://bitcoinops.org/en/topics/anchor-outputs/)
 * [第 3 版交易中继（Version 3 transaction relay）](https://bitcoinops.org/en/topics/version-3-transaction-relay/)
-* [比特币核心 #16421 允许 RBF 替换切割](https://github.com/bitcoin/bitcoin/pull/16421)
+* [Bitcoin Core #16421 允许 RBF 替换切割](https://github.com/bitcoin/bitcoin/pull/16421)

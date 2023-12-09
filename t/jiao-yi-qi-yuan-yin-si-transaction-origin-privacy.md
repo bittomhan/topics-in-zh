@@ -24,14 +24,14 @@
 
 **2020**
 
-* [比特币核心 #19109 为跟踪最近交易公告添加了每个节点的滚动布隆过滤器](https://bitcoinops.org/en/newsletters/2020/07/22/#bitcoin-core-19109)
-* [比特币核心 #18861 仅允许节点请求已向该节点告知该交易的节点](https://bitcoinops.org/en/newsletters/2020/05/27/#bitcoin-core-18861)
+* [Bitcoin Core #19109 为跟踪最近交易公告添加了每个节点的滚动布隆过滤器](https://bitcoinops.org/en/newsletters/2020/07/22/#bitcoin-core-19109)
+* [Bitcoin Core #18861 仅允许节点请求已向该节点告知该交易的节点](https://bitcoinops.org/en/newsletters/2020/05/27/#bitcoin-core-18861)
 
 **2019**
 
 * [演讲摘要：‘TxProbe：使用孤立交易发现比特币网络拓扑’](https://bitcoinops.org/en/newsletters/2019/09/18/#txprobe-discovering-bitcoin-s-network-topology-using-orphan-transactions)
-* [比特币核心 #15834 修复了在 #14897 中引入的一个半随机顺序请求交易的 bug](https://bitcoinops.org/en/newsletters/2019/06/19/#bitcoin-core-15834)
-* [比特币核心 #14897 引入了请求交易的半随机顺序](https://bitcoinops.org/en/newsletters/2019/02/12/#bitcoin-core-14897)
+* [Bitcoin Core #15834 修复了在 #14897 中引入的一个半随机顺序请求交易的 bug](https://bitcoinops.org/en/newsletters/2019/06/19/#bitcoin-core-15834)
+* [Bitcoin Core #14897 引入了请求交易的半随机顺序](https://bitcoinops.org/en/newsletters/2019/02/12/#bitcoin-core-14897)
 
 ## 参见
 

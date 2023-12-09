@@ -33,6 +33,6 @@
 
 * [Sergio Demian Lerner 披露了 CVE-2017-12842，允许从 SPV 钱包窃取](https://bitcoinops.org/en/newsletters/2018/12/28/#cve-2017-12842)
 * [Trezor 团队披露了 C 语言 bech32 规范中的一个漏洞，影响多个钱包](https://bitcoinops.org/en/newsletters/2018/11/06/#overflow-bug-in-reference-c-language-bech32-implementation)
-* [比特币核心开发者在 Awemany 的 DoS 报告后悄悄修复了允许无效比特币的漏洞](https://bitcoinops.org/en/newsletters/2018/09/25/#upgrade-to-bitcoin-core-0-16-3-to-fix-cve-2018-17144)
+* [Bitcoin Core 开发者在 Awemany 的 DoS 报告后悄悄修复了允许无效比特币的漏洞](https://bitcoinops.org/en/newsletters/2018/09/25/#upgrade-to-bitcoin-core-0-16-3-to-fix-cve-2018-17144)
 * [Awemany 披露了 CVE-2018-17144 作为比特币核心的 DoS 漏洞](https://bitcoinops.org/en/newsletters/2018/09/25/#cve-2018-17144)
 * [Cory Fields 披露了比特币 ABC（比特币现金）中的共识故障漏洞](https://bitcoinops.org/en/newsletters/2018/08/14/#how-to-help-security-researchers)

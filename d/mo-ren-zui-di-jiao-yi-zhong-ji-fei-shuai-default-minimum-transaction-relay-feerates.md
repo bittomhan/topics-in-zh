@@ -12,11 +12,11 @@ _本主题描述是一个存根。我们欢迎通过_ [_pull request_](https://g
 
 **2019**
 
-* [比特币核心 #16507 修复了与最低中继费率相关的四舍五入问题](https://bitcoinops.org/en/newsletters/2019/10/09/#bitcoin-core-16507)
+* [Bitcoin Core #16507 修复了与最低中继费率相关的四舍五入问题](https://bitcoinops.org/en/newsletters/2019/10/09/#bitcoin-core-16507)
 
 **2018**
 
-* [比特币核心 #13987 添加了关于同伴最低费率信息到 `getpeerinfo`](https://bitcoinops.org/en/newsletters/2018/09/04/#bitcoin-core-13987)
+* [Bitcoin Core #13987 添加了关于同伴最低费率信息到 `getpeerinfo`](https://bitcoinops.org/en/newsletters/2018/09/04/#bitcoin-core-13987)
 * [关于降低默认最低交易中继费率的讨论](https://bitcoinops.org/en/newsletters/2018/07/10/#discussion-min-fee-discussion-about-minimum-relay-fee)
 * [意外创建低于默认最小中继费率的交易](https://bitcoinops.org/en/newsletters/2018/07/10/#unrelayable-transactions)
 

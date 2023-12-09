@@ -20,12 +20,12 @@ Bech32 地址格式只使用 32 个字母和数字，不使用大小写混合，
 
 **2022**
 
-* [比特币核心 GUI #459 允许用户选择创建 bech32m 地址](https://bitcoinops.org/en/newsletters/2022/01/05/#bitcoin-core-gui-459)
+* [Bitcoin Core GUI #459 允许用户选择创建 bech32m 地址](https://bitcoinops.org/en/newsletters/2022/01/05/#bitcoin-core-gui-459)
 
 **2021**
 
 * [2021 年度回顾：bech32m 地址](https://bitcoinops.org/en/newsletters/2021/12/22/#bech32m)
-* [比特币核心 #16807 返回 bech32/bech32m 地址中的输入错误位置](https://bitcoinops.org/en/newsletters/2021/12/01/#bitcoin-core-16807)
+* [Bitcoin Core #16807 返回 bech32/bech32m 地址中的输入错误位置](https://bitcoinops.org/en/newsletters/2021/12/01/#bitcoin-core-16807)
 * [Rust Bitcoin #691 增加了为 P2TR scriptPubKey 创建 bech32m 地址的 API](https://bitcoinops.org/en/newsletters/2021/11/17/#rust-bitcoin-691)
 * [在比特币核心中创建 bech32m 地址的说明](https://bitcoinops.org/en/newsletters/2021/10/20/#testing-taproot)
 * [Rust Bitcoin #563 为 P2TR 输出增加了对 bech32m 地址的支持](https://bitcoinops.org/en/newsletters/2021/10/06/#rust-bitcoin-563)
@@ -35,7 +35,7 @@ Bech32 地址格式只使用 32 个字母和数字，不使用大小写混合，
 * [为 Taproot 准备 #1：bech32m 发送支持](https://bitcoinops.org/en/newsletters/2021/06/23/#preparing-for-taproot-1-bech32m-sending-support)- [C-Lightning](https://bitcoinops.org/en/newsletters/2021/06/16/#c-lightning-4591)
 * [Electrum 4.1.0 增加了对 bech32m 的支持](https://bitcoinops.org/en/newsletters/2021/05/19/#electrum-4-1-0-enhances-lightning-features)
 * [Blockchain.com 增加了对 bech32 接收和支付的支持](https://bitcoinops.org/en/newsletters/2021/05/19/#blockchain-com-supports-segwit)
-* [比特币核心 #20861 实现了对 bech32m 地址的支持](https://bitcoinops.org/en/newsletters/2021/03/24/#bitcoin-core-20861)
+* [Bitcoin Core #20861 实现了对 bech32m 地址的支持](https://bitcoinops.org/en/newsletters/2021/03/24/#bitcoin-core-20861)
 * [BitMEX 交易所宣布支持 bech32 存款地址](https://bitcoinops.org/en/newsletters/2021/03/24/#bitmex-announces-bech32-support)
 * [BTCPay Server #2181 在二维码中将 bech32 地址大写](https://bitcoinops.org/en/newsletters/2021/03/10/#btcpay-server-2181)
 * [BIPs #1056 增加了 BIP350 以支持 bech32m](https://bitcoinops.org/en/newsletters/2021/02/10/#bips-1056)

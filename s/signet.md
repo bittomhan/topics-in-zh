@@ -29,16 +29,16 @@ Signet 上的区块只有在由创建该 signet 的密钥签名后才有效。�
 * [关于在默认 signet 中添加定期重组的讨论](https://bitcoinops.org/en/newsletters/2021/09/15/#signet-reorg-discussion)
 * [LND #5025 为使用 signet 添加基本支持](https://bitcoinops.org/en/newsletters/2021/06/02/#lnd-5025)
 * [关于多个 signet 与软分叉激活的兼容性讨论](https://bitcoinops.org/en/newsletters/2021/04/14/#taproot-activation-discussion)
-* [比特币核心 0.21.0 发布，支持 signet](https://bitcoinops.org/en/newsletters/2021/01/20/#bitcoin-core-0-21-0)
-* [比特币核心 #19937 为挖掘 signet 区块添加实用工具](https://bitcoinops.org/en/newsletters/2021/01/20/#bitcoin-core-19937)
+* [Bitcoin Core 0.21.0 发布，支持 signet](https://bitcoinops.org/en/newsletters/2021/01/20/#bitcoin-core-0-21-0)
+* [Bitcoin Core #19937 为挖掘 signet 区块添加实用工具](https://bitcoinops.org/en/newsletters/2021/01/20/#bitcoin-core-19937)
 
 **2020**
 
 * [2020 年回顾：signet](https://bitcoinops.org/en/newsletters/2020/12/23/#signet)
-* [比特币核心 #20145 添加脚本请求 signet 硬币的支持](https://bitcoinops.org/en/newsletters/2020/11/25/#bitcoin-core-20145)
+* [Bitcoin Core #20145 添加脚本请求 signet 硬币的支持](https://bitcoinops.org/en/newsletters/2020/11/25/#bitcoin-core-20145)
 * [关于添加 signet 支持的比特币核心 PR 审查会议摘要](https://bitcoinops.org/en/newsletters/2020/10/14/#bitcoin-core-pr-review-club)
 * [C-Lightning #4068 和 #4078 更新 C-Lightning 的 signet 实现](https://bitcoinops.org/en/newsletters/2020/09/30/#c-lightning-4068)
-* [比特币核心 #18267 和 #19993 为 signet 添加支持](https://bitcoinops.org/en/newsletters/2020/09/30/#bitcoin-core-18267)- [BIPs #983 为新的 signet 区块签名方法更新 BIP325](https://bitcoinops.org/en/newsletters/2020/09/09/#bips-983)
+* [Bitcoin Core #18267 和 #19993 为 signet 添加支持](https://bitcoinops.org/en/newsletters/2020/09/30/#bitcoin-core-18267)- [BIPs #983 为新的 signet 区块签名方法更新 BIP325](https://bitcoinops.org/en/newsletters/2020/09/09/#bips-983)
 * [关于默认 signet 的参数讨论](https://bitcoinops.org/en/newsletters/2020/09/02/#default-signet-discussion)
 * [关于 signet 设计决策的讨论](https://bitcoinops.org/en/newsletters/2020/09/02/#signet)
 * [signet 的可用性是否会消除对新测试网的需求？](https://bitcoinops.org/en/newsletters/2020/08/26/#will-there-be-a-testnet4-or-do-we-not-need-a-testnet-reset-once-we-have-signet)
@@ -57,4 +57,4 @@ Signet 上的区块只有在由创建该 signet 的密钥签名后才有效。�
 
 ## 参见
 
-* [比特币核心 #16411：signet 支持](https://github.com/bitcoin/bitcoin/pull/16411)
+* [Bitcoin Core #16411：signet 支持](https://github.com/bitcoin/bitcoin/pull/16411)
