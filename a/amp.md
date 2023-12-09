@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖原子多路径支付（Atomic Multipath Payments, AMPs）
+description: 也涵盖原子多路径支付（Atomic Multipath Payments, AMPs）
 ---
 
 # AMP

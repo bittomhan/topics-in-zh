@@ -10,18 +10,18 @@
 
 ## Optech 新闻稿和网站提及
 
-**2022 年**
+**2022**
 
 * [BTCD v0.23.2 添加了对 addr v2 的支持](https://bitcoinops.org/en/newsletters/2022/10/19/#btcd-v0-23-2-released)
 
-**2021 年**
+**2021**
 
 * [BIPs #1134 阐明了 BIP155 中 `sendaddr2` P2P 特性协商消息的使用](https://bitcoinops.org/en/newsletters/2021/07/07/#bips-1134)
 * [Bitcoin Core #20685 添加了对 I2P 的支持，包括 addrv2 消息传播](https://bitcoinops.org/en/newsletters/2021/03/10/#bitcoin-core-20685)
 * [Rust Bitcoin 0.26.0 发布，支持第二版 `addr` 消息](https://bitcoinops.org/en/newsletters/2021/01/20/#rust-bitcoin-0-26-0)
 * [Bitcoin Core 0.21.0 发布，支持第二版 `addr` 消息](https://bitcoinops.org/en/newsletters/2021/01/20/#bitcoin-core-0-21-0)
 
-**2020 年**
+**2020**
 
 * [2020 年度回顾：第二版 `addr` 消息](https://bitcoinops.org/en/newsletters/2020/12/23/#addrv2)
 * [Bitcoin Core #20564 只向协议版本为 70016 的节点发送 addrv2](https://bitcoinops.org/en/newsletters/2020/12/16/#protocol-version)
@@ -30,7 +30,7 @@
 * [BIPs #907 更新 BIP155 消息，允许最大 512 字节的地址](https://bitcoinops.org/en/newsletters/2020/09/30/#bips-907)
 * [Bitcoin Core PR Review Club 讨论关于 `addr` v2 PR 的摘要](https://bitcoinops.org/en/newsletters/2020/08/12/#bitcoin-core-pr-review-club)
 
-**2019 年**
+**2019**
 
 * [关于 addr v2 消息的每个节点地址传播的提议](https://bitcoinops.org/en/newsletters/2019/11/06/#signaling-support-for-address-relay)
 * [第二版 `addr` 消息被指定为 BIP155](https://bitcoinops.org/en/newsletters/2019/07/31/#bips-766)

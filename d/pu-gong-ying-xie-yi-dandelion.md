@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖 BIP156
+description: 也涵盖 BIP156
 ---
 
 # 蒲公英协议 - Dandelion

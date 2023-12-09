@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖大容量通道（Large channels）
+description: 也涵盖大容量通道（Large channels）
 ---
 
 # Wumbo

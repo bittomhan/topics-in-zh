@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖客户端验证（Client-side validation）、Taro 和 Taproot Assets
+description: 也涵盖客户端验证（Client-side validation）、Taro 和 Taproot Assets
 ---
 
 # RGB

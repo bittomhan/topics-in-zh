@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖二方 ECDSA（2pECDSA）和双方 ECDSA（Two-Party ECDSA）
+description: 也涵盖二方 ECDSA（2pECDSA）和双方 ECDSA（Two-Party ECDSA）
 ---
 
 # 无脚本多重签名 - Scriptless Multisignatures

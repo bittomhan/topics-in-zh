@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖批处理（Batching）
+description: 也涵盖批处理（Batching）
 ---
 
 # 支付批处理 - Payment Batching
@@ -16,15 +16,15 @@ description: 同时涵盖批处理（Batching）
 
 ## Optech 新闻简报和网站提及
 
-**2023 年**
+**2023**
 
 * [提议的 `OP_VAULT` 操作码支持批量提取保险库](https://bitcoinops.org/en/newsletters/2023/01/18/#proposal-for-new-vault-specific-opcodes)
 
-**2021 年**
+**2021**
 
 * [基于候选集的区块模板可能有助于提升批处理支付的费用提升](https://bitcoinops.org/en/newsletters/2021/06/02/#candidate-set-based-csb-block-template-construction)
 
-**2020 年**
+**2020**
 
 * [BOLTs #803 增加了使用批次安全结算 HTLCs 的建议](https://bitcoinops.org/en/newsletters/2020/12/16/#bolts-803)
 * [Sparrow 钱包增加了支付批处理支持](https://bitcoinops.org/en/newsletters/2020/11/18/#sparrow-wallet-adds-payment-batching-and-payjoin)
@@ -37,12 +37,12 @@ description: 同时涵盖批处理（Batching）
 * [关于压缩支付批处理的 OP\_CHECKTEMPLATEVERIFY 讨论](https://bitcoinops.org/en/newsletters/2020/02/12/#op-checktemplateverify-ctv-workshop)
 * [不等值的 CoinJoin 可能看起来像批处理，以改善隐私](https://bitcoinops.org/en/newsletters/2020/01/08/#coinjoins-without-equal-value-inputs-or-outputs)
 
-**2019 年**
+**2019**
 
 * [提议新的操作码以在费用高峰期更有效地进行批处理](https://bitcoinops.org/en/newsletters/2019/05/29/#proposed-transaction-output-commitments)
 * [演讲：回归费用，涵盖包括批处理在内的技术](https://bitcoinops.org/en/newsletters/2019/05/29/#presentation-a-return-to-fees)
 
-**2018 年**
+**2018**
 
 * [2018 年回顾：约 11% 的支付使用了批处理](https://bitcoinops.org/en/newsletters/2018/12/28/#batched-payments)
 

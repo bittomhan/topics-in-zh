@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖描述符（Descriptors）
+description: 也涵盖描述符（Descriptors）
 ---
 
 # 脚本描述符 - Output script descriptors

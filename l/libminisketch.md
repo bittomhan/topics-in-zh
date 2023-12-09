@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖 Minisketch
+description: 也涵盖 Minisketch
 ---
 
 # Libminisketch

@@ -1,6 +1,6 @@
 ---
 description: >-
-  同时涵盖基础 AMP（Base AMP）、简化多路径支付（Simplified Multipath Payments）和多部分支付（Multipart
+  也涵盖基础 AMP（Base AMP）、简化多路径支付（Simplified Multipath Payments）和多部分支付（Multipart
   Payments）
 ---
 
@@ -20,23 +20,23 @@ AMP 和 SMP 都允许将高价值的 HTLCs 分割成多个更有可能单独成�
 
 ## Optech 新闻简报和网站提及
 
-**2023 年**
+**2023**
 
 * [动态支付切换和分割（PSS）被提议用于改善支付隐私](https://bitcoinops.org/en/newsletters/2023/10/04/#payment-splitting-and-switching)
 * [LDK #2156 添加了对使用简化多路径支付的 keysend 支付的支持](https://bitcoinops.org/en/newsletters/2023/06/21/#ldk-2156)
 * [关于使用多路径过度支付和恢复以减少支付延迟的讨论](https://bitcoinops.org/en/newsletters/2023/02/22/#ln-quality-of-service-flag)
 
-**2022 年**
+**2022**
 
 * [BOLTs #1031 允许在使用多路径时支付稍高于请求金额](https://bitcoinops.org/en/newsletters/2022/11/16/#bolts-1031)
 
-**2021 年**
+**2021**
 
 * [关于基础费用对多路径支付成本影响的讨论](https://bitcoinops.org/en/newsletters/2021/08/25/#zero-base-fee-ln-discussion)
 * [Electrum 4.1.0 增加了对多路径支付的支持](https://bitcoinops.org/en/newsletters/2021/05/19/#electrum-4-1-0-enhances-lightning-features)
 * [新论文分析了多路径支付对路由成功的益处](https://bitcoinops.org/en/newsletters/2021/03/31/#paper-on-probabilistic-path-selection)
 
-**2020 年**
+**2020**
 
 * [Eclair #1599 改进了对直接通道对手的多路径支出](https://bitcoinops.org/en/newsletters/2020/11/18/#eclair-1599)
 * [LND #4521 改进了多路径支付的发票路由提示](https://bitcoinops.org/en/newsletters/2020/08/19/#lnd-4521)
@@ -55,7 +55,7 @@ AMP 和 SMP 都允许将高价值的 HTLCs 分割成多个更有可能单独成�
 * [LND 0.9.0-beta 增加了接收多路径支付的支持](https://bitcoinops.org/en/newsletters/2020/01/29/#upgrade-to-lnd-0-9-0-beta)
 * [Eclair #1283 允许多路径支付穿越未公告通道](https://bitcoinops.org/en/newsletters/2020/01/22/#eclair-1283)
 
-**2019 年**
+**2019**
 
 * [2019 年度回顾：多路径支付](https://bitcoinops.org/en/newsletters/2019/12/28/#multipath)
 * [多个 LN 实现增加了多路径支付支持](https://bitcoinops.org/en/newsletters/2019/12/18/#ln-implementations-add-multipath-payment-support)
@@ -65,7 +65,7 @@ AMP 和 SMP 都允许将高价值的 HTLCs 分割成多个更有可能单独成�
 * [LND #3442 准备性 PR，增加了实现多路径支付所需的功能](https://bitcoinops.org/en/newsletters/2019/11/13/#lnd-3442)
 * [LND #3390 将 HTLCs 与发票的跟踪分离，为 SMP 做准备](https://bitcoinops.org/en/newsletters/2019/09/11/#lnd-3390)
 
-**2018 年**
+**2018**
 
 * [LN 协议 1.1 目标：多路径支付](https://bitcoinops.org/en/newsletters/2018/11/20/#multi-path-payments)
 

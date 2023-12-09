@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖锚定输出（Anchor Outputs）
+description: 也涵盖锚定输出（Anchor Outputs）
 ---
 
 # 简化承诺 - Simplified Commitments

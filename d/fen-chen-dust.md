@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖不经济的输出（Uneconomical outputs）
+description: 也涵盖不经济的输出（Uneconomical outputs）
 ---
 
 # 粉尘 - Dust

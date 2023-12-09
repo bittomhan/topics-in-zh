@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖 LN-Symmetry
+description: 也涵盖 LN-Symmetry
 ---
 
 # Eltoo

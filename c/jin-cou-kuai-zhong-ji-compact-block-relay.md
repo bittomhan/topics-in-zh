@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖 BIP152
+description: 也涵盖 BIP152
 ---
 
 # 紧凑块中继 - Compact Block Relay

@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖 RGB、Taproot Assets 和客户端验证（Client-side validation）
+description: 也涵盖 RGB、Taproot Assets 和客户端验证（Client-side validation）
 ---
 
 # Taro

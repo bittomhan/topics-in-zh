@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖堵塞无阻支付（Stuckless Payments）和冗余过度支付（Redundant Overpayments）
+description: 也涵盖堵塞无阻支付（Stuckless Payments）和冗余过度支付（Redundant Overpayments）
 ---
 
 # 回旋支付 - Boomerang Payments

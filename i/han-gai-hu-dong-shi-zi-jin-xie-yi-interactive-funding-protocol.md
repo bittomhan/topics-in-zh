@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖双向资金注入（Dual funding）
+description: 也涵盖双向资金注入（Dual funding）
 ---
 
 # 涵盖互动式资金协议 - Interactive funding protocol

@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖 Codex32
+description: 也涵盖 Codex32
 ---
 
 # BIP93
@@ -14,7 +14,7 @@ _此主题描述是一个存根。我们欢迎通过_[_提交请求_](https://gi
 
 ## Optech 新闻简报及网站提及
 
-**2023 年**
+**2023**
 
 * [Core Lightning #6466 和 #6473 增加了对备份和恢复 codex32 编码种子的支持](https://bitcoinops.org/en/newsletters/2023/08/09/#core-lightning-6466)
 * [关于手工从私钥推导公钥的问题](https://bitcoinops.org/en/newsletters/2023/07/26/#how-can-i-manually-on-paper-calculate-a-bitcoin-public-key-from-a-private-key)

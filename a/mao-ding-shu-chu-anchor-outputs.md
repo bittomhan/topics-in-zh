@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖简化承诺（Simplified Commitments）
+description: 也涵盖简化承诺（Simplified Commitments）
 ---
 
 # 锚定输出（Anchor Outputs）

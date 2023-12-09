@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖未公布的通道（Unannounced channels）
+description: 也涵盖未公布的通道（Unannounced channels）
 ---
 
 # 私有通道 - Private channels

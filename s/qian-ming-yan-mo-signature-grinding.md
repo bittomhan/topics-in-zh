@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖低 -r 研磨 (Low-r grinding)
+description: 也涵盖低 -r 研磨 (Low-r grinding)
 ---
 
 # 签名研磨  - Signature grinding

@@ -11,24 +11,24 @@
 
 ## Optech 新闻简报和网站提及
 
-**2023 年**
+**2023**
 
 * [在计算 UTXO 集合哈希时发现的比特币核心错误](https://bitcoinops.org/en/newsletters/2023/10/25/#bitcoin-utxo-set-summary-hash-replacement)
 * [比特币核心 #27596 添加了假设有效的快照链状态和后台完整验证同步](https://bitcoinops.org/en/newsletters/2023/10/11/#bitcoin-core-27596)
 * [比特币核心开发者面对面会议的总结](https://bitcoinops.org/en/newsletters/2023/05/17/#summaries-of-bitcoin-core-developers-in-person-meeting)
 * [比特币核心 #25740 允许后台验证引导 UTXO 状态](https://bitcoinops.org/en/newsletters/2023/03/15/#bitcoin-core-25740)
 
-**2021 年**
+**2021**
 
 * [比特币核心 #23155 扩展了 `dumptxoutset` RPC，增加了新信息](https://bitcoinops.org/en/newsletters/2021/12/08/#bitcoin-core-23155)
 * [比特币核心 #19521 简化了为旧区块生成 UTXO 集合哈希的过程](https://bitcoinops.org/en/newsletters/2021/05/05/#bitcoin-core-19521)
 * [为跟踪 UTXO 状态哈希添加了 MuHash 函数](https://bitcoinops.org/en/newsletters/2021/01/13/#bitcoin-core-19055)
 
-**2020 年**
+**2020**
 
 * [MuHash 实现快速哈希 UTXO 集合的 Review Club 总结](https://bitcoinops.org/en/newsletters/2020/11/11/#bitcoin-core-pr-review-club)
 
-**2019 年**
+**2019**
 
 * [2019 年回顾：假设 UTXO](https://bitcoinops.org/en/newsletters/2019/12/28/#assumeutxo)
 * [CoreDev.tech 展示和讨论假设UTXO](https://bitcoinops.org/en/newsletters/2019/06/12/#assume-utxo-demo)

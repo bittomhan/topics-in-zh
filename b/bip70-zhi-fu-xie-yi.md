@@ -27,11 +27,11 @@
 
 ## Optech 新闻简报及网站提及
 
-**2021 年**
+**2021**
 
 * [邮件列表讨论关于 BIP70 替代方案](https://bitcoinops.org/en/newsletters/2021/03/03/#discussion-about-a-bip70-replacement)
 
-**2019 年**
+**2019**
 
 * [2019 年回顾：比特币核心中 BIP70 的弃用和禁用](https://bitcoinops.org/en/newsletters/2019/12/28/#bip70)
 * [比特币核心 0.19 发布，BIP70 支持默认禁用](https://bitcoinops.org/en/newsletters/2019/11/27/#deprecated-or-removed-features)
@@ -39,7 +39,7 @@
 * [比特币核心 PR#15584 默认禁用 BIP70 支持](https://bitcoinops.org/en/newsletters/2019/09/18/#bitcoin-core-15584)
 * [比特币核心 PR#15063 允许将 BIP72 URI 的 BIP21 解析回退](https://bitcoinops.org/en/newsletters/2019/02/19/#bitcoin-core-15063)
 
-**2018 年**
+**2018**
 
 * [比特币核心 PR#14451 允许在不支持 BIP70 的情况下构建 Bitcoin-Qt](https://bitcoinops.org/en/newsletters/2018/10/30/#bitcoin-core-14451)
 * [支付到终端点 (P2EP) 与 BIP70 有类似的元素](https://bitcoinops.org/en/newsletters/2018/08/14/#pay-to-end-point-p2ep-idea-proposed)

@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖 Tor 和匿名网络（Anonymity Networks）
+description: 也涵盖 Tor 和匿名网络（Anonymity Networks）
 ---
 
 # I2P

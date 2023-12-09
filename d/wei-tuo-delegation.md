@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖签名者委托（Signer delegation）
+description: 也涵盖签名者委托（Signer delegation）
 ---
 
 # 委托 - Delegation

@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖 BIP157, BIP158 以及中子协议（Neutrino Protocol）
+description: 也涵盖 BIP157, BIP158 以及中子协议（Neutrino Protocol）
 ---
 
 # 紧凑块过滤器 - Compact Block Filters

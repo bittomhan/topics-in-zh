@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖支付池（Payment pools）和联合池（Joinpools）
+description: 也涵盖支付池（Payment pools）和联合池（Joinpools）
 ---
 
 # 硬币池 - Coinpools

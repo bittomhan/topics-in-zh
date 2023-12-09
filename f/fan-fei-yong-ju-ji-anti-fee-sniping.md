@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖反费用狙击 （Anti Fee Sniping）
+description: 也涵盖反费用狙击 （Anti Fee Sniping）
 ---
 
 # 费用狙击 - Fee Sniping

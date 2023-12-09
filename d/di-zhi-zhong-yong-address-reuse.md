@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖输出链接（Output Linking）、地址重用（Address Reuse）和避免重用（Reuse Avoidance）
+description: 也涵盖输出链接（Output Linking）、地址重用（Address Reuse）和避免重用（Reuse Avoidance）
 ---
 
 # 尘埃攻击 - Dust Attacks
@@ -18,33 +18,33 @@ description: 同时涵盖输出链接（Output Linking）、地址重用（Addre
 
 ## Optech 新闻简报和网站提及
 
-**2022 年**
+**2022**
 
 * [唯一地址服务器的建议](https://bitcoinops.org/en/newsletters/2022/10/12/#recommendations-for-unique-address-servers)
 * [BIP47 可重用支付代码的更新替代方案](https://bitcoinops.org/en/newsletters/2022/07/06/#updated-alternative-to-bip47-reusable-payment-codes)
 * [静默地址的实验](https://bitcoinops.org/en/newsletters/2022/06/01/#experimentation-with-silent-payments)
 * [脱链可重用地址的静默地址](https://bitcoinops.org/en/newsletters/2022/04/06/#delinked-reusable-addresses)
 
-**2021 年**
+**2021**
 
 * [为 Taproot 准备：新输出脚本对输出链接的影响](https://bitcoinops.org/en/newsletters/2021/10/06/#preparing-for-taproot-16-output-linking)
 * [比特币核心 #23065 允许钱包持久性阻止花费垃圾 UTXO](https://bitcoinops.org/en/newsletters/2021/10/06/#bitcoin-core-23065)
 * [重用基于哈希的地址不提供量子抵抗](https://bitcoinops.org/en/newsletters/2021/03/24/#hashes-not-currently-doing-a-good-job-at-qc-resistance)
 
-**2020 年**
+**2020**
 
 * [2020 年度回顾：交易来源隐私](https://bitcoinops.org/en/newsletters/2020/12/23/#transaction-origin-privacy)
 * [比特币核心 #17843 修复了与 `avoid_reuse` 标志相关的余额差异](https://bitcoinops.org/en/newsletters/2020/01/22/#bitcoin-core-17843)
 * [比特币核心 #17621 修复了 `avoid_reuse` 标志可能导致的潜在隐私泄露](https://bitcoinops.org/en/newsletters/2020/01/15/#bitcoin-core-17621)
 
-**2019 年**
+**2019**
 
 * [比特币核心 0.19 新功能：`avoid_reuse` 钱包标志](https://bitcoinops.org/en/newsletters/2019/11/27/#optional-privacy-preserving-address-management)
 * [比特币核心 #13756 添加了 `avoid_reuse` 钱包标志](https://bitcoinops.org/en/newsletters/2019/06/26/#bitcoin-core-13756)
 * [Esplora 区块浏览器更新，针对地址重用提出隐私警告](https://bitcoinops.org/en/newsletters/2019/03/19/#esplora-updated)
 * [在重用地址中发现的弱签名随机数](https://bitcoinops.org/en/newsletters/2019/01/15/#weak-signature-nonces-discovered)
 
-**2018 年**
+**2018**
 
 * [比特币核心 #12257：新的 `avoidpartialspends` 配置选项](https://bitcoinops.org/en/newsletters/2018/07/31/#bitcoin-core-12257)
 

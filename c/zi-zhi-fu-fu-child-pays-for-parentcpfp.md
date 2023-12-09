@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖祖先费率挖矿（Ancestor Feerate Mining）
+description: 也涵盖祖先费率挖矿（Ancestor Feerate Mining）
 ---
 
 # 子支付父 - Child Pays For Parent（CPFP）

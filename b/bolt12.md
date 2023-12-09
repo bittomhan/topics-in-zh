@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖提议（Offers）
+description: 也涵盖提议（Offers）
 ---
 
 # BOLT12

@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖无脚本脚本（Scriptless Scripts）和适配器签名（Adaptor Signatures）
+description: 也涵盖无脚本脚本（Scriptless Scripts）和适配器签名（Adaptor Signatures）
 ---
 
 # 签名适配器 - Signature Adaptors
@@ -79,18 +79,18 @@ Bob 使用该签名广播 Alice 最初给他的交易。
 
 ## Optech 新闻稿和网站提及
 
-**2023 年**
+**2023**
 
 * [适配器签名安全性分析](https://bitcoinops.org/en/newsletters/2023/05/03/#analysis-of-signature-adaptor-security)
 * [使用签名适配器证明接受了 LN 异步支付](https://bitcoinops.org/en/newsletters/2023/02/01/#ln-async-proof-of-payment)
 
-**2021 年**
+**2021**
 
 * [为 taproot 准备：签名适配器](https://bitcoinops.org/en/newsletters/2021/08/18/#preparing-for-taproot-9-signature-adaptors)
 * [问题：为什么区块范围的签名聚合会阻止适配器签名？](https://bitcoinops.org/en/newsletters/2021/06/30/#why-does-blockwide-signature-aggregation-prevent-adaptor-signatures)
 * [Libsecp256k1-zkp #117 添加了对简化 ECDSA 签名适配器的支持](https://bitcoinops.org/en/newsletters/2021/04/28/#support-for-ecdsa-signature-adaptors-added-to-libsecp256k1-zkp)
 
-**2020 年**
+**2020**
 
 * [2020 年度回顾：LN 通道承诺的签名适配器](https://bitcoinops.org/en/newsletters/2020/12/23/#ptlcs)
 * [修订的见证不对称通道提议与签名适配器](https://bitcoinops.org/en/newsletters/2020/10/14/#updated-witness-asymmetric-payment-channel-proposal)
@@ -101,13 +101,13 @@ Bob 使用该签名广播 Alice 最初给他的交易。
 * [使用签名适配器实现 LN 延迟和吞吐量的回旋合约](https://bitcoinops.org/en/newsletters/2020/02/26/#boomerang-redundancy-improves-latency-and-throughput-in-payment-channel-networks)
 * [Taproot 隐私增益，包括签名适配器带来的增益](https://bitcoinops.org/en/newsletters/2020/02/19/#tap1)
 
-**2019 年**
+**2019**
 
 * [演讲：区块链设计模式：层次和扩展方法](https://bitcoinops.org/en/newsletters/2019/09/18/#blockchain-design-patterns-layers-and-scaling-approaches)
 * [Libsecp256k1-zkp 库更新支持签名适配器](https://bitcoinops.org/en/newsletters/2019/02/26/#schnorr-ready-fork-of-libsecp256k1-available)
 * [问答：taproot 和签名适配器有什么区别？](https://bitcoinops.org/en/newsletters/2019/02/26/#taproot-and-scriptless-scripts-both-use-schnorr-but-how-are-they-different)
 
-**2018 年**
+**2018**
 
 * [关于使用签名适配器解决 LN 问题的讨论](https://bitcoinops.org/en/newsletters/2018/11/06/#discussion-about-improving-lightning-payments)
 * [与签名适配器兼容的快速多方 ECDSA](https://bitcoinops.org/en/newsletters/2018/10/23/#two-papers-published-on-fast-multiparty-ecdsa)

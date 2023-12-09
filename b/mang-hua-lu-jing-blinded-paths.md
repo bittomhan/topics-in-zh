@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖隐藏目的地（Hidden Destinations）、会合路由（Rendez-vous Routing）和路径盲化（Route Blinding）
+description: 也涵盖隐藏目的地（Hidden Destinations）、会合路由（Rendez-vous Routing）和路径盲化（Route Blinding）
 ---
 
 # 盲化路径 - Blinded Paths

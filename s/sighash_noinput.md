@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖 SIGHASH_ANYPREVOUT
+description: 也涵盖 SIGHASH_ANYPREVOUT
 ---
 
 # SIGHASH\_NOINPUT

@@ -120,12 +120,12 @@ BIP8 的灵活性使其能够用于比较针对拟议的 [taproot](https://bitco
 
 ## Optech 新闻简报及网站提及
 
-**2023 年**
+**2023**
 
 * [关于为什么比特币核心尚未埋藏 Taproot 部署的问题](https://bitcoinops.org/en/newsletters/2023/03/29/#why-isn-t-the-taproot-deployment-buried-in-bitcoin-core)
 * [关于在比特币审判中使用异端部署的 PR 审查俱乐部会议](https://bitcoinops.org/en/newsletters/2023/03/08/#bitcoin-core-pr-review-club)
 
-**2022 年**
+**2022**
 
 * [关于各种软分叉提案在激活之前如何被测试的历史](https://bitcoinops.org/en/newsletters/2022/10/26/#what-is-the-history-on-how-previous-soft-forks-were-tested-prior-to-being-considered-for-activation)
 * [使用交易信号来衡量对共识变更的支持的提案](https://bitcoinops.org/en/newsletters/2022/05/04/#measuring-user-support-for-consensus-changes)
@@ -133,7 +133,7 @@ BIP8 的灵活性使其能够用于比较针对拟议的 [taproot](https://bitco
 * [关于何时激活软分叉是合理的讨论](https://bitcoinops.org/en/newsletters/2022/04/27/#argued)
 * [关于对有争议的软分叉使用快速审判激活的担忧](https://bitcoinops.org/en/newsletters/2022/03/23/#speedy-trial-discussion)
 
-**2021 年**
+**2021**
 
 * [关于在激活后将 Taproot 输出视为始终可用的分析](https://bitcoinops.org/en/newsletters/2021/12/08/#bitcoin-core-pr-review-club)
 * [鼓励矿工开始为 Taproot 标记准备就绪](https://bitcoinops.org/en/newsletters/2021/05/05/#miners-encouraged-to-start-signaling-for-taproot)
@@ -150,7 +150,7 @@ BIP8 的灵活性使其能够用于比较针对拟议的 [taproot](https://bitco
 * [BIPs #1020 更新了 BIP8，不再在锁定期间要求标记](https://bitcoinops.org/en/newsletters/2021/02/10/#bips-1020)
 * [安排了讨论 Taproot 激活的会议](https://bitcoinops.org/en/newsletters/2021/01/27/#scheduled-meeting-to-discuss-taproot-activation)
 
-**2020 年**
+**2020**
 
 * [2020 年综述：软分叉激活机制](https://bitcoinops.org/en/newsletters/2020/12/23/#activation-mechanisms)
 * [不同软分叉激活机制的比较问答](https://bitcoinops.org/en/newsletters/2020/12/16/#how-do-bip8-and-bip9-differ-how-are-they-alike)
@@ -165,7 +165,7 @@ BIP8 的灵活性使其能够用于比较针对拟议的 [taproot](https://bitco
 * [OP\_CHECKTEMPLATEVERIFY 研讨会关于激活机制的讨论](https://bitcoinops.org/en/newsletters/2020/02/12/#op-checktemplateverify-ctv-workshop)
 * [邮件列表上关于软分叉激活方法的讨论](https://bitcoinops.org/en/newsletters/2020/01/15/#discussion-of-soft-fork-activation-mechanisms)
 
-**2019 年**
+**2019**
 
 * [比特币核心中硬编码的之前软分叉的激活高度](https://bitcoinops.org/en/newsletters/2019/08/21/#hardcoded-previous-soft-fork-activation-blocks)
 * [草案 Taproot 提案故意省略激活机制](https://bitcoinops.org/en/newsletters/2019/05/14/#no-activation-mechanism-specified)

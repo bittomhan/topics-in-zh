@@ -26,20 +26,20 @@ _注意：本主题仅指 BIP37 交易布隆过滤器。在比特币中还有通
 
 ## Optech 新闻简报及网站提及
 
-**2023 年**
+**2023**
 
 * [提议从比特币核心中移除 `mempool` 消息支持，可能连同布隆过滤器一起](https://bitcoinops.org/en/newsletters/2023/04/26/#proposed-removal-of-bip35-mempool-p2p-message)
 
-**2021 年**
+**2021**
 
 * [Rust Bitcoin #580 添加对 BIP37 P2P 网络消息的支持](https://bitcoinops.org/en/newsletters/2021/09/22/#rust-bitcoin-580)
 * [BIP37 布隆过滤器连同 `mempool` P2P 消息被弃用的历史](https://bitcoinops.org/en/newsletters/2021/08/25/#is-the-mempool-p2p-message-reliable)
 
-**2020 年**
+**2020**
 
 * [比特币核心 #19260 断开了不适当发送 filterclear 的节点](https://bitcoinops.org/en/newsletters/2020/06/24/#bitcoin-core-19260)
 
-**2019 年**
+**2019**
 
 * [比特币核心 0.19 发布，禁用了布隆过滤器](https://bitcoinops.org/en/newsletters/2019/11/27/#deprecated-or-removed-features)
 * [比特币核心 PR#16248 添加了布隆过滤器白名单选项](https://bitcoinops.org/en/newsletters/2019/08/21/#bitcoin-core-16248)

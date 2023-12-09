@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖 Pay-to-EndPoint, Bustapay 和 Payjoin
+description: 也涵盖 Pay-to-EndPoint, Bustapay 和 Payjoin
 ---
 
 # BIP79
@@ -14,7 +14,7 @@ description: 同时涵盖 Pay-to-EndPoint, Bustapay 和 Payjoin
 
 ## Optech 新闻简报及网站提及
 
-**2023 年**
+**2023**
 
 * [关于无服务器 payjoin 的 BIP 草案讨论](https://bitcoinops.org/en/newsletters/2023/08/16/#serverless-payjoin)
 * [宣布 Payjoin Dev Kit (PDK)，提供用于 payjoin 的 Rust SDK](https://bitcoinops.org/en/newsletters/2023/07/19/#payjoin-sdk-announced)
@@ -22,18 +22,18 @@ description: 同时涵盖 Pay-to-EndPoint, Bustapay 和 Payjoin
 * [BTCPay Server #4600 更新其 payjoin 实现，以避免创建不必要的输入](https://bitcoinops.org/en/newsletters/2023/02/15/#btcpay-server-4600)
 * [无服务器 payjoin 提案](https://bitcoinops.org/en/newsletters/2023/02/01/#serverless-payjoin-proposal)
 
-**2022 年**
+**2022**
 
 * [WabiSabi 作为 payjoin 替代方案的权衡](https://bitcoinops.org/en/newsletters/2022/04/06/#wabisabi-alternative-to-payjoin)
 
-**2021 年**
+**2021**
 
 * [BTCPay Server #2450 使生成支持 payjoin 的发票成为新热钱包的默认选项](https://bitcoinops.org/en/newsletters/2021/06/23/#btcpay-server-2450)
 * [BTCPay Server #2425 允许在没有发票的情况下接收 payjoin 支付](https://bitcoinops.org/en/newsletters/2021/04/21/#btcpay-server-2425)
 * [关于如何提高 payjoin 采用率的讨论](https://bitcoinops.org/en/newsletters/2021/01/20/#payjoin-adoption)
 * [Coldcard 硬件钱包增加了支付 payjoin 的支持](https://bitcoinops.org/en/newsletters/2021/01/20/#coldcard-adds-payjoin-signing)
 
-**2020 年**
+**2020**
 
 * [2020 年回顾：payjoin](https://bitcoinops.org/en/newsletters/2020/12/23/#payjoin)
 * [Sparrow Wallet 0.9.7 增加了对 BIP78 payjoin 的支持](https://bitcoinops.org/en/newsletters/2020/11/18/#sparrow-wallet-adds-payment-batching-and-payjoin)
@@ -45,11 +45,11 @@ description: 同时涵盖 Pay-to-EndPoint, Bustapay 和 Payjoin
 * [比较 payjoin 隐私与 coinswap 隐私](https://bitcoinops.org/en/newsletters/2020/06/03/#design-for-a-coinswap-implementation)
 * [BTCPay 添加了发送和接收 payjoin 支付的支持](https://bitcoinops.org/en/newsletters/2020/04/22/#btcpay-adds-support-for-sending-and-receiving-payjoined-payments)
 
-**2019 年**
+**2019**
 
 * [邮件列表讨论 BIP79 Bustapay](https://bitcoinops.org/en/newsletters/2019/01/29/#post-about-bip79-p2ep-payjoin)
 
-**2018 年**
+**2018**
 
 * [2018 年回顾：Pay-to-EndPoint (P2EP)](https://bitcoinops.org/en/newsletters/2018/12/28/#p2ep)
 * [Bustapay 讨论（P2EP 的简化替代方案）](https://bitcoinops.org/en/newsletters/2018/09/18/#bustapay-discussion)

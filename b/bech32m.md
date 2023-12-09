@@ -18,11 +18,11 @@ Bech32 地址格式只使用 32 个字母和数字，不使用大小写混合，
 
 ## Optech 新闻简报和网站提及
 
-**2022 年**
+**2022**
 
 * [比特币核心 GUI #459 允许用户选择创建 bech32m 地址](https://bitcoinops.org/en/newsletters/2022/01/05/#bitcoin-core-gui-459)
 
-**2021 年**
+**2021**
 
 * [2021 年度回顾：bech32m 地址](https://bitcoinops.org/en/newsletters/2021/12/22/#bech32m)
 * [比特币核心 #16807 返回 bech32/bech32m 地址中的输入错误位置](https://bitcoinops.org/en/newsletters/2021/12/01/#bitcoin-core-16807)
@@ -41,7 +41,7 @@ Bech32 地址格式只使用 32 个字母和数字，不使用大小写混合，
 * [BIPs #1056 增加了 BIP350 以支持 bech32m](https://bitcoinops.org/en/newsletters/2021/02/10/#bips-1056)
 * [bech32m 的草案 BIP](https://bitcoinops.org/en/newsletters/2021/01/13/#bech32m)
 
-**2020 年**
+**2020**
 
 * [2020 年度回顾：Taproot 对修改后的 bech32 地址格式的需求](https://bitcoinops.org/en/newsletters/2020/12/23/#taproot)
 * [问答：‘原生 Segwit’和‘Bech32’之间有什么区别？](https://bitcoinops.org/en/newsletters/2020/12/16/#what-is-the-difference-between-native-segwit-and-bech32)
@@ -50,7 +50,7 @@ Bech32 地址格式只使用 32 个字母和数字，不使用大小写混合，
 * [关于更新 BIP173 Bech32 以解决可变性问题的讨论](https://bitcoinops.org/en/newsletters/2020/10/14/#bech32-addresses-for-taproot)
 * [提议更新 BIP173 Bech32 以解决可变性问题](https://bitcoinops.org/en/newsletters/2020/07/22/#bech32-address-updates)
 
-**2019 年**
+**2019**
 
 * [2019 年度回顾：Bech32 的可变性](https://bitcoinops.org/en/newsletters/2019/12/28/#bech32-mutability)
 * [提出的计划应对变长地址中的 Bech32 可篡改性](https://bitcoinops.org/en/newsletters/2019/12/18/#review-bech32-action-plan)
@@ -60,7 +60,7 @@ Bech32 地址格式只使用 32 个字母和数字，不使用大小写混合，
 * [Bech32 长度变更可变性对 v1 segwit 脚本长度的影响](https://bitcoinops.org/en/newsletters/2019/11/13/#taproot-review-discussion-and-related-information)
 * [**Bech32 发送支持（24 部分系列）**](https://bitcoinops.org/en/bech32-sending-support/)
 
-**2018 年**
+**2018**
 
 * [C 语言实现的 Bech32 安全更新](https://bitcoinops.org/en/newsletters/2018/11/06#bech32-security-update-for-c-implementation)
 

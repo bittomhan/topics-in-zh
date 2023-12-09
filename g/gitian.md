@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖可重现构建（Reproducible builds） 和 Guix
+description: 也涵盖可重现构建（Reproducible builds） 和 Guix
 ---
 
 # Gitian

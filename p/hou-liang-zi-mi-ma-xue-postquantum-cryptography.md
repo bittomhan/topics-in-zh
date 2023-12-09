@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖量子抗性（Quantum resistance）
+description: 也涵盖量子抗性（Quantum resistance）
 ---
 
 # 后量子密码学 - Post-quantum cryptography

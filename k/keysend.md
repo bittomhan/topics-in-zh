@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖自发支付 (Spontaneous payments)
+description: 也涵盖自发支付 (Spontaneous payments)
 ---
 
 # Keysend

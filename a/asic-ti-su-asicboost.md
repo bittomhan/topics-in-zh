@@ -1,5 +1,5 @@
 ---
-description: 同时涵盖显性 ASIC 提速（Overt ASICBoost）和隐性 ASIC 提速（Covert ASICBoost）
+description: 也涵盖显性 ASIC 提速（Overt ASICBoost）和隐性 ASIC 提速（Covert ASICBoost）
 ---
 
 # ASIC 提速（ASICBoost）
