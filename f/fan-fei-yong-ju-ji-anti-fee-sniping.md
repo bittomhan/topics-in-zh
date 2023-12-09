@@ -42,7 +42,7 @@ description: 也涵盖反费用狙击 （Anti Fee Sniping）
 
 ## Optech 新闻简报和网站提及
 
-**2022年**
+**2022**
 
 * [关于费用和费用狙击的讨论 CoreDev.tech 转录](https://bitcoinops.org/en/newsletters/2022/10/26/#fees)
 * [关于费用狙击与区块补贴关系的讨论](https://bitcoinops.org/en/newsletters/2022/07/20/#fee-sniping)
@@ -50,15 +50,15 @@ description: 也涵盖反费用狙击 （Anti Fee Sniping）
 * [LDK #1531 开始为LN资金交易使用反费用狙击](https://bitcoinops.org/en/newsletters/2022/06/29/#ldk-1531)
 * [BIPs #1269 将BIP326分配给默认Taproot反费用狙击的建议](https://bitcoinops.org/en/newsletters/2022/03/16/#bips-1269)
 
-**2021年**
+**2021**
 
 * [提议钱包在Taproot交易中默认设置nSequence的BIP](https://bitcoinops.org/en/newsletters/2021/06/16/#bip-proposed-for-wallets-to-set-nsequence-by-default-on-taproot-transactions)
 
-**2020年**
+**2020**
 
 * [C-Lightning #3465 为提现交易实施反费用狙击](https://bitcoinops.org/en/newsletters/2020/02/12/#c-lightning-3465)
 * [建议在交互式LN资金交易中使用反费用狙击](https://bitcoinops.org/en/newsletters/2020/02/05/#interactive-construction-of-ln-funding-transactions)
 
-**2018年**
+**2018**
 
 * [LND #2063 更新清算器以使用 nLockTime 反费用狙击](https://bitcoinops.org/en/newsletters/2018/10/23/#lnd-1978)

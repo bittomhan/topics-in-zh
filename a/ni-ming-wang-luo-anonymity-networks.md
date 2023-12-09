@@ -19,15 +19,15 @@ description: 也涵盖 Tor 和 I2P
 
 ## Optech 新闻稿和网站提及
 
-**2023年**
+**2023**
 
 * [Bitcoin Core #27411 停止在其他网络上宣布本地节点的 Tor 或 I2P 地址](https://bitcoinops.org/en/newsletters/2023/07/19/#bitcoin-core-27411)
 
-**2022年**
+**2022**
 
 * [Bitcoin Core #25355 添加了对瞬态 I2P 地址的支持](https://bitcoinops.org/en/newsletters/2022/09/07/#bitcoin-core-25355)
 
-**2021年**
+**2021**
 
 * [Bitcoin Core #23077 通过 CJDNS 启用地址转发](https://bitcoinops.org/en/newsletters/2021/11/17/#bitcoin-core-23077)
 * [Bitcoin Core 22.0 添加了对 I2P 连接的支持并移除了 v2 Tor 连接](https://bitcoinops.org/en/newsletters/2021/09/15/#bitcoin-core-22-0)
@@ -40,7 +40,7 @@ description: 也涵盖 Tor 和 I2P
 * [Bitcoin Core 0.21.0 发布，支持 Tor v3 洋葱地址](https://bitcoinops.org/en/newsletters/2021/01/20/#bitcoin-core-0-21-0)
 * [Bitcoin Core GUI #162 在 GUI 节点窗口中添加了网络类型信息](https://bitcoinops.org/en/newsletters/2021/01/06/#bitcoin-core-gui-162)
 
-**2020年**
+**2020**
 
 * [年度回顾：对 Tor v3 洋葱地址的支持](https://bitcoinops.org/en/newsletters/2020/12/23/#addrv2)
 * [Bitcoin Core #19954 完成了 BIP155 addr v2 的实现](https://bitcoinops.org/en/newsletters/2020/10/14/#bitcoin-core-19954)
@@ -52,7 +52,7 @@ description: 也涵盖 Tor 和 I2P
 * [CKBunker 允许为启用 Tor 的 Coldcard 指定支付条件](https://bitcoinops.org/en/newsletters/2020/02/19/#ckbunker-using-psbts-for-an-hsm)
 * [Eclair #1278 允许用户在使用洋葱服务时跳过使用 SSL](https://bitcoinops.org/en/newsletters/2020/02/05/#eclair-1278)
 
-**2019年**
+**2019**
 
 * [C-Lightning #3155 添加了使用静态洋葱服务地址的选项](https://bitcoinops.org/en/newsletters/2019/12/11/#c-lightning-3155)
 * [Blockstream Green 内置 Tor 支持，适用于 iOS 和 Android](https://bitcoinops.org/en/newsletters/2019/10/23/#blockstream-green-tor-support)
@@ -61,7 +61,7 @@ description: 也涵盖 Tor 和 I2P
 * [BIP 提出新的地址转发消息以支持 Tor v3 洋葱地址](https://bitcoinops.org/en/newsletters/2019/03/12/#version-2-addr-message-proposed)
 * [Eclair #736 添加了使用和成为洋葱服务的支持](https://bitcoinops.org/en/newsletters/2019/02/12/#eclair-736)
 
-**2018年**
+**2018**
 
 * [LND #1516 添加了自动设置 v3 洋葱服务的支持](https://bitcoinops.org/en/newsletters/2018/09/18/#lnd-1516)
 

@@ -21,21 +21,21 @@ description: 也涵盖锚定输出（Anchor Outputs）
 
 ## Optech 新闻稿和网站提及
 
-**2023年**
+**2023**
 
 * [Core Lightning #6334 更新并扩展了CLN对锚定输出的实验性支持](https://bitcoinops.org/en/newsletters/2023/07/05/#core-lightning-6334)
 * [LDK #2368 允许手动接受使用锚定输出创建的新通道](https://bitcoinops.org/en/newsletters/2023/06/28/#ldk-2368)
 * [LDK #1841 实现了BOLTs #824中描述的费用窃取攻击的解决方案](https://bitcoinops.org/en/newsletters/2023/05/24/#ldk-1841)
 * [LDK #1860 添加了对使用锚定输出的通道的支持](https://bitcoinops.org/en/newsletters/2023/02/01/#ldk-1860)
 
-**2022年**
+**2022**
 
 * [在v3交易上构建的临时锚点实现](https://bitcoinops.org/en/newsletters/2022/12/07/#ephemeral-anchors-implementation)
 * [提议使用多个预先承诺的费用以避免在许多情况下需要锚定输出](https://bitcoinops.org/en/newsletters/2022/11/02/#anchor-outputs-workaround)
 * [提议转发v3交易以改进锚定输出](https://bitcoinops.org/en/newsletters/2022/10/05/#proposed-new-transaction-relay-policies-designed-for-ln-penalty)
 * [Eclair #2134 默认启用锚定输出](https://bitcoinops.org/en/newsletters/2022/01/26/#eclair-2134)
 
-**2021年**
+**2021**
 
 * [Rust-Lightning #1176 添加了对锚定输出风格费用提升的初始支持](https://bitcoinops.org/en/newsletters/2021/12/01/#rust-lightning-1176)
 * [在零HTLC费用锚定输出协议中恢复HD钱包存在的复杂性](https://bitcoinops.org/en/newsletters/2021/09/29/#challenges-recovering-ln-close-transactions-using-only-a-seed)
@@ -48,7 +48,7 @@ description: 也涵盖锚定输出（Anchor Outputs）
 * [LND 0.12.0-beta 为使用锚定输出的通道添加了守望塔支持](https://bitcoinops.org/en/newsletters/2021/01/27/#lnd-0-12-0-beta)
 * [LND #4908 为使用锚定输出时保留费用提升余额](https://bitcoinops.org/en/newsletters/2021/01/27/#lnd-4908)
 
-**2020年**
+**2020**
 
 * [2020年度回顾：锚定输出](https://bitcoinops.org/en/newsletters/2020/12/23/#anchor-outputs)
 * [LND #4779 允许从锚定输出中扫清HTLCs](https://bitcoinops.org/en/newsletters/2020/12/16/#lnd-4779)
@@ -71,13 +71,13 @@ description: 也涵盖锚定输出（Anchor Outputs）
 * [LND #3821 添加了草案锚定承诺支持](https://bitcoinops.org/en/newsletters/2020/03/18/#lnd-3821)
 * [LND #3829 更新代码和文档以简化添加锚定输出](https://bitcoinops.org/en/newsletters/2020/01/15/#lnd-3829)
 
-**2019年**
+**2019**
 
 * [2019年度回顾：锚定输出](https://bitcoinops.org/en/newsletters/2019/12/28/#anchor-outputs)
 * [继续讨论LN锚定输出](https://bitcoinops.org/en/newsletters/2019/11/06/#continued-discussion-of-ln-anchor-outputs)
 * [LN简化承诺讨论](https://bitcoinops.org/en/newsletters/2019/10/30/#ln-simplified-commitments)
 
-**2018年**
+**2018**
 
 * [LN简化费用提升](https://bitcoinops.org/en/newsletters/2018/11/27/#simplified-fee-bumping-for-ln)
 

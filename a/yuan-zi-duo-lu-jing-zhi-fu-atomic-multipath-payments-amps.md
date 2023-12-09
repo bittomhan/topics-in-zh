@@ -16,7 +16,7 @@ AMP 和 SMP 都允许将较高价值的 HTLCs（Hash Time-Locked Contracts）分
 
 ## Optech 新闻稿和网站提及
 
-**2021年**
+**2021**
 
 * [2021年度回顾：原子多路径支付](https://bitcoinops.org/en/newsletters/2021/12/22/#amp)
 * [LND 0.14.0-beta 允许对同一AMP发票进行多次自发支付](https://bitcoinops.org/en/newsletters/2021/11/24/#lnd-0-14-0-beta)
@@ -27,11 +27,11 @@ AMP 和 SMP 都允许将较高价值的 HTLCs（Hash Time-Locked Contracts）分
 * [LND #5159 添加了进行自发AMP的支持](https://bitcoinops.org/en/newsletters/2021/05/05/#lnd-5159)
 * [LND #5108 添加了使用AMP进行自发多路径支付的支持](https://bitcoinops.org/en/newsletters/2021/04/14/#lnd-5108)
 
-**2020年**
+**2020**
 
 * [LND #3957 添加了有用于支持原子多路径支付（AMP）的代码](https://bitcoinops.org/en/newsletters/2020/02/12/#lnd-3957)
 
-**2018年**
+**2018**
 
 * [闪电网络协议 1.1 目标：多路径支付](https://bitcoinops.org/en/newsletters/2018/11/20/#multi-path-payments)
 

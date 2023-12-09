@@ -19,15 +19,15 @@ ASIC 提速可以以两种形式实现：
 
 ## Optech 新闻简报和网站提及
 
-**2021年**
+**2021**
 
 * [关于区块模板与实际区块的问题：ASICBoost 解释了其中一个差异](https://bitcoinops.org/en/newsletters/2021/04/28/#why-does-the-mined-block-differ-so-much-from-the-block-template)
 
-**2019年**
+**2019**
 
 * [比特币核心 #15471 移除由显性 ASIC 提速使用错误触发的警告](https://bitcoinops.org/en/newsletters/2019/03/05/#bitcoin-core-15471)
 
-**2018年**
+**2018**
 
 * [S9矿机支持显性 ASIC 提速](https://bitcoinops.org/en/newsletters/2018/10/30/#overt-asicboost-support-for-s9-miners)
 

@@ -10,20 +10,20 @@
 
 ## Optech 新闻简报和网站提及
 
-**2023年**
+**2023**
 
 * [使用适配器签名证明接受了异步支付](https://bitcoinops.org/en/newsletters/2023/02/01/#ln-async-proof-of-payment)
 * [请求证明异步支付被接受](https://bitcoinops.org/en/newsletters/2023/01/25/#request-for-proof-that-an-async-payment-was-accepted)
 * [非交互式通道开放承诺的想法可能允许异步支付快速再平衡](https://bitcoinops.org/en/newsletters/2023/01/11/#non-interactive-ln-channel-open-commitments)
 * [Eclair #2464 添加了一个用于允许一个节点向同行交付异步支付的有用触发器](https://bitcoinops.org/en/newsletters/2023/01/04/#eclair-2464)
 
-**2022年**
+**2022**
 
 * [2022年度回顾：异步支付](https://bitcoinops.org/en/newsletters/2022/12/21/#async-payments)
 * [Eclair #2435 添加了当使用蹦床中继时支持基本形式的异步支付](https://bitcoinops.org/en/newsletters/2022/10/05/#eclair-2435)
 * [蹦床路由和移动支付](https://bitcoinops.org/en/newsletters/2022/06/15/#trampoline-routing-and-mobile-payments)
 
-**2021年**
+**2021**
 
 * [支付离线节点](https://bitcoinops.org/en/newsletters/2021/10/20/#paying-offline-ln-nodes)
 

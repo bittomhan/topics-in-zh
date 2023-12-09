@@ -16,22 +16,22 @@ description: 也涵盖二方 ECDSA（2pECDSA）和无脚本多重签名（Script
 
 ## Optech 新闻稿和网站提及
 
-**2023年**
+**2023**
 
 * [当与多重签名一起使用时，对签名适配器安全性的分析](https://bitcoinops.org/en/newsletters/2023/05/03/#analysis-of-signature-adaptor-security)
 * [BIPs #1372 将 BIP327 分配给用于创建多重签名的 MuSig2 协议](https://bitcoinops.org/en/newsletters/2023/04/12/#bips-1372)
 
-**2022年**
+**2022**
 
 * [关于不同脚本类型可能的最大多签名群的问题](https://bitcoinops.org/en/newsletters/2022/06/29/#what-is-the-largest-multisig-quorum-currently-possible)
 
-**2021年**
+**2021**
 
 * [为 taproot 准备：多重签名随机数的挑战](https://bitcoinops.org/en/newsletters/2021/08/11/#preparing-for-taproot-8-multisignature-nonces)
 * [为 taproot 准备：多重签名概述](https://bitcoinops.org/en/newsletters/2021/08/04/#preparing-for-taproot-7-multisignatures)
 * [无需多重签名支持的签名适配器](https://bitcoinops.org/en/newsletters/2021/04/28/#support-for-ecdsa-signature-adaptors-added-to-libsecp256k1-zkp)
 
-**2020年**
+**2020**
 
 * [关于多重签名和门限签名的讨论](https://bitcoinops.org/en/newsletters/2020/07/01/#schnorr-signatures-and-multisignatures)
 * [关于使用 160 位地址进行简单多方多重签名的警告](https://bitcoinops.org/en/newsletters/2020/06/24/#reminder-about-collision-attack-risks-on-two-party-ecdsa)
@@ -40,13 +40,13 @@ description: 也涵盖二方 ECDSA（2pECDSA）和无脚本多重签名（Script
 * [使用多重签名实现 ECDSA 的状态链](https://bitcoinops.org/en/newsletters/2020/04/01/#implementing-statechains-without-schnorr-or-eltoo)
 * [BIPs #876 将 BIP340 分配给新的兼容多重签名方案](https://bitcoinops.org/en/newsletters/2020/01/29/#bip340)
 
-**2019年**
+**2019**
 
 * [关于嵌套和可组合多重签名方案的讨论](https://bitcoinops.org/en/newsletters/2019/12/04/#continued-schnorr-taproot-discussion)
 * [关于减少交互需求的施诺尔多重签名方案的工作](https://bitcoinops.org/en/newsletters/2019/11/27/#schnorr-taproot-updates)
 * [关于 taproot 如何在与多重签名结合使用时提高扩展性的讨论](https://bitcoinops.org/en/newsletters/2019/09/18/#blockchain-design-patterns-layers-and-scaling-approaches)
 
-**2018年**
+**2018**
 
 * [发表了关于快速 ECDSA 多重签名的两篇论文](https://bitcoinops.org/en/newsletters/2018/10/23/#two-papers-published-on-fast-multiparty-ecdsa)
 * [无脚本闪电网络支付通道的 ECDSA 多重签名](https://bitcoinops.org/en/newsletters/2018/10/09/#multiparty-ecdsa-for-scriptless-lightning-network-payment-channels)
