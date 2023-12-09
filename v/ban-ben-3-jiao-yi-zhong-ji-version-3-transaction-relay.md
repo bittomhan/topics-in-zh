@@ -1,10 +1,10 @@
-# 版本 3 交易中继 - Version 3 Transaction Relay
+# 第三版交易中继 - Version 3 Transaction Relay
 
-**版本 3 交易中继**是一项提案，允许交易选择加入一组修改后的交易中继策略，旨在防止固定攻击（pinning attacks）。结合包中继（package relay），这些策略有助于启用 LN 链上交易的动态手续费率。
+**第三版交易中继**是一项提案，允许交易选择加入一组修改后的交易中继策略，旨在防止固定攻击（pinning attacks）。结合包中继（package relay），这些策略有助于启用 LN 链上交易的动态手续费率。
 
-版本 3 交易中继是标准交易策略的超集。也就是说，v3 交易遵循所有标准交易的规则（例如最小和最大交易重量），同时增加了一些额外的规则，旨在允许[交易替换](https://bitcoinops.org/en/topics/replace-by-fee/)，同时阻止交易固定攻击。v3 交易还需要对[包替换费](https://bitcoinops.org/en/topics/package-relay/)策略进行轻微的修改，以保持与矿工的激励兼容。
+第三版交易中继是标准交易策略的超集。也就是说，v3 交易遵循所有标准交易的规则（例如最小和最大交易重量），同时增加了一些额外的规则，旨在允许[交易替换](https://bitcoinops.org/en/topics/replace-by-fee/)，同时阻止交易固定攻击。v3 交易还需要对[包替换费](https://bitcoinops.org/en/topics/package-relay/)策略进行轻微的修改，以保持与矿工的激励兼容。
 
-版本 3 交易中继解决了规则 3 [交易固定](https://bitcoinops.org/en/topics/transaction-pinning/)的问题，并可能允许移除 [CPFP carve-out](https://bitcoinops.org/en/topics/cpfp-carve-out/)。
+第三版交易中继解决了规则 3 [交易固定](https://bitcoinops.org/en/topics/transaction-pinning/)的问题，并可能允许移除 [CPFP carve-out](https://bitcoinops.org/en/topics/cpfp-carve-out/)。
 
 版本 3 交易被[短暂锚点](https://bitcoinops.org/en/topics/ephemeral-anchors/)所使用。
 

@@ -251,7 +251,7 @@
 
 * [金库 - Vaults](v/jin-ku-vaults.md)
 * [第二版 P2P 传输 - Version 2 P2P Transport](v/bip151.md)
-* [版本 3 交易中继 - Version 3 Transaction Relay](v/ban-ben-3-jiao-yi-zhong-ji-version-3-transaction-relay.md)
+* [第三版交易中继 - Version 3 Transaction Relay](v/ban-ben-3-jiao-yi-zhong-ji-version-3-transaction-relay.md)
 
 ## W
 
