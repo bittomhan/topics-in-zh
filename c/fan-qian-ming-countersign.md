@@ -10,7 +10,7 @@
 
 * [Countersign](https://gist.github.com/sipa/d7dcaae0419f10e5be0270fada84c20b)
 
-## Optech 新闻通讯和网站提及
+## Optech 新闻简报和网站提及
 
 **2022**
 

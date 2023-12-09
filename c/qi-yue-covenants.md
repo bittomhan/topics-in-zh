@@ -12,7 +12,7 @@
 
 * [通过契约增强比特币交易](https://fc17.ifca.ai/bitcoin/papers/bitcoin17-final28.pdf)
 
-## Optech 新闻通讯和网站提及
+## Optech 新闻简报和网站提及
 
 **2023**
 

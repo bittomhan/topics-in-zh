@@ -84,7 +84,7 @@
 * [双向资金注入 - Dual funding](d/shuang-xiang-zi-jin-zhu-ru-dual-funding.md)
 * [重复输入漏洞 - Duplicate inputs vulnerability](d/cve-2018-17144.md)
 * [粉尘 - Dust](d/fen-chen-dust.md)
-* [尘埃攻击 - Dust Attacks](d/di-zhi-zhong-yong-address-reuse.md)
+* [粉尘攻击 - Dust Attacks](d/di-zhi-zhong-yong-address-reuse.md)
 
 ## E
 

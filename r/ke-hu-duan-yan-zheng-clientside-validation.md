@@ -16,7 +16,7 @@ description: 也涵盖客户端验证（Client-side validation）、Taro 和 Tap
 
 只有想支持 RGB 或 Taproot Assets 的钱包需要理解这些协议，且只有想发送或接收特定代币或其他客户端验证合约的钱包需要了解那个合约。对其他所有人来说，使用 RGB 和 Taproot Assets 创建的交易看起来像普通的比特币交易。
 
-## Optech 新闻通讯和网站提及
+## Optech 新闻简报和网站提及
 
 **2023**
 

@@ -19,7 +19,7 @@ description: 也涵盖简化承诺（Simplified Commitments）
 * [锚定输出](https://github.com/lightningnetwork/lightning-rfc/pull/688)
 * [零HTLC费用锚定输出](https://github.com/lightningnetwork/lightning-rfc/pull/824)
 
-## Optech 新闻稿和网站提及
+## Optech 新闻简报和网站提及
 
 **2023**
 
@@ -50,7 +50,7 @@ description: 也涵盖简化承诺（Simplified Commitments）
 
 **2020**
 
-* [2020年度回顾：锚定输出](https://bitcoinops.org/en/newsletters/2020/12/23/#anchor-outputs)
+* [2020 年度回顾：锚定输出](https://bitcoinops.org/en/newsletters/2020/12/23/#anchor-outputs)
 * [LND #4779 允许从锚定输出中扫清HTLCs](https://bitcoinops.org/en/newsletters/2020/12/16/#lnd-4779)
 * [BOLT5 更新以防止针对锚定输出的钉扎攻击](https://bitcoinops.org/en/newsletters/2020/12/16/#bolts-803)
 * [LND #4782 为使用锚定输出的通道添加了守望塔客户端支持](https://bitcoinops.org/en/newsletters/2020/12/09/#lnd-4782)
@@ -73,7 +73,7 @@ description: 也涵盖简化承诺（Simplified Commitments）
 
 **2019**
 
-* [2019年度回顾：锚定输出](https://bitcoinops.org/en/newsletters/2019/12/28/#anchor-outputs)
+* [2019 年度回顾：锚定输出](https://bitcoinops.org/en/newsletters/2019/12/28/#anchor-outputs)
 * [继续讨论LN锚定输出](https://bitcoinops.org/en/newsletters/2019/11/06/#continued-discussion-of-ln-anchor-outputs)
 * [LN简化承诺讨论](https://bitcoinops.org/en/newsletters/2019/10/30/#ln-simplified-commitments)
 

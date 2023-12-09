@@ -8,7 +8,7 @@ _本主题描述是一个存根。我们欢迎通过_ [_pull request_](https://g
 
 * [洋葱消息支持](https://github.com/lightning/bolts/pull/759)
 
-## Optech 新闻通讯和网站提及
+## Optech 新闻简报和网站提及
 
 **2023**
 

@@ -8,7 +8,7 @@ description: 也涵盖支付池（Payment pools）和联合池（Joinpools）
 
 _这个话题描述是一个草稿。我们欢迎通过_ [_pull request_](https://github.com/bitcoinops/bitcoinops.github.io/edit/master/\_topics/en/joinpools.md) _提供有关该话题的更多背景信息。_
 
-## Optech 新闻通讯和网站提及
+## Optech 新闻简报和网站提及
 
 **2023**
 

@@ -8,7 +8,7 @@
 
 * [Bitcoin Core #27677: 新内存池设计](https://github.com/bitcoin/bitcoin/issues/27677)
 
-## Optech 新闻通讯和网站提及
+## Optech 新闻简报和网站提及
 
 **2023**
 

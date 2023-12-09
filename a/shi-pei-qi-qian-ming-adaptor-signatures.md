@@ -77,7 +77,7 @@ Bob 使用该签名广播 Alice 最初给他的交易。
 * [一次性可验证加密签名 (PDF)](https://github.com/LLFourn/one-time-VES/blob/master/main.pdf)
 * [无脚本脚本协议文档](https://github.com/BlockstreamResearch/scriptless-scripts)
 
-## Optech 新闻稿和网站提及
+## Optech 新闻简报和网站提及
 
 **2023**
 

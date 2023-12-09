@@ -9,7 +9,7 @@
 * [CoinJoin：现实世界中的比特币隐私](https://bitcointalk.org/index.php?topic=279249.0)
 * [Zerolink：比特币可互换性框架](https://github.com/nopara73/ZeroLink)
 
-## Optech 新闻通讯和网站提及
+## Optech 新闻简报和网站提及
 
 **2023**
 

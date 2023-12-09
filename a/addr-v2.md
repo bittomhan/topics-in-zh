@@ -8,7 +8,7 @@
 
 * [BIP155](https://github.com/bitcoin/bips/blob/master/bip-0155.mediawiki)
 
-## Optech 新闻稿和网站提及
+## Optech 新闻简报和网站提及
 
 **2022**
 

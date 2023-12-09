@@ -17,7 +17,7 @@ description: 也涵盖匿名网络（Anonymity Networks） 和 I2P
 
 注意：Tor 洋葱服务（Tor Onion Services）不应与 LN 中使用的洋葱加密（Onion Encryption）混淆。尽管两者都源自同样的保护隐私的想法，但它们是两个不同的系统。
 
-## Optech 新闻稿和网站提及
+## Optech 新闻简报和网站提及
 
 **2023**
 

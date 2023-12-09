@@ -8,7 +8,7 @@ _这个话题描述是一个草稿。我们欢迎通过_ [_pull request_](https:
 
 * [bip-cleanup（BIP 清理提案）](https://github.com/TheBlueMatt/bips/blob/cleanup-softfork/bip-XXXX.mediawiki)
 
-## Optech 新闻通讯和网站提及
+## Optech 新闻简报和网站提及
 
 **2020**
 

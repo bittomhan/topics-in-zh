@@ -14,7 +14,7 @@ description: 也涵盖二方 ECDSA（2pECDSA）和无脚本多重签名（Script
 
 <table><thead><tr><th width="161">术语</th><th width="98">私钥数量</th><th width="210">消息数量（例如：交易输入）</th><th width="146">公开的公钥数量</th><th>签名数量</th><th>需要的签名者数量</th><th>备注</th></tr></thead><tbody><tr><td>有脚本的多签名（Scripted Multisig）</td><td>m</td><td>1</td><td>m</td><td>k 其中 k&#x3C;=m</td><td>k</td><td>使用比特币脚本多签名操作码</td></tr><tr><td><a href="https://bitcoinops.org/en/topics/multisignature/">无脚本多重签名</a></td><td>m</td><td>1</td><td>1</td><td>1</td><td>m</td><td>与单签名在链上无法区分</td></tr><tr><td><a href="https://bitcoinops.org/en/topics/threshold-signature/">门限签名（Threshold Signature）</a></td><td>m</td><td>1</td><td>1</td><td>1</td><td>k 其中 k&#x3C;=m</td><td>与单签名在链上无法区分</td></tr></tbody></table>
 
-## Optech 新闻稿和网站提及
+## Optech 新闻简报和网站提及
 
 **2023**
 

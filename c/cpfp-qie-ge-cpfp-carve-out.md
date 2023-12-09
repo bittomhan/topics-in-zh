@@ -9,7 +9,7 @@
 * [CPFP 切割提案](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-November/016518.html)
 * [Bitcoin Core PR#15681：\[内存池\] 允许每个包多一个单祖先交易](https://github.com/bitcoin/bitcoin/pull/15681)
 
-## Optech 新闻通讯和网站提及
+## Optech 新闻简报和网站提及
 
 **2021**
 

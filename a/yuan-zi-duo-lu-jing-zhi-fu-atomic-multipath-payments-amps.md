@@ -14,11 +14,11 @@ AMP 和 SMP 都允许将较高价值的 HTLCs（Hash Time-Locked Contracts）分
 
 * [原子多路径支付](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/000993.html)
 
-## Optech 新闻稿和网站提及
+## Optech 新闻简报和网站提及
 
 **2021**
 
-* [2021年度回顾：原子多路径支付](https://bitcoinops.org/en/newsletters/2021/12/22/#amp)
+* [2021 年度回顾：原子多路径支付](https://bitcoinops.org/en/newsletters/2021/12/22/#amp)
 * [LND 0.14.0-beta 允许对同一AMP发票进行多次自发支付](https://bitcoinops.org/en/newsletters/2021/11/24/#lnd-0-14-0-beta)
 * [LND #5803 允许对同一AMP发票进行多次自发支付](https://bitcoinops.org/en/newsletters/2021/11/03/#lnd-5803)
 * [LND 0.13.0-beta 允许接收和发送使用AMP的支付](https://bitcoinops.org/en/newsletters/2021/06/23/#lnd-0-13-0-beta)
