@@ -6,7 +6,7 @@ description: 也涵盖不经济的输出（Uneconomical outputs）
 
 **不经济的输出**指的是交易输出的价值低于花费它们将要支付的费用。为了防止用户创建会增加 UTXO 集大小的不经济输出，比特币核心（Bitcoin Core）和其他节点拒绝转发或挖掘输出值低于特定值的交易，这个特定值被称为 **粉尘限制（dust limit）**。
 
-**术语说明：**有时，_粉尘（dust）被用作不经济输出_或更通用的_低价值输出_的同义词。这可能造成混淆，如 [粉尘攻击（dust attacks）](https://bitcoinops.org/en/topics/output-linking/) 的情况，它涉及的金额刚好超过粉尘限制。Optech [建议](https://github.com/bitcoinops/bitcoinops.github.io/blob/master/STYLE.md)使用_不经济输出_来指那些花费成本不值得的输出，并保留粉尘这个术语专门用于提到粉尘限制。
+**术语**：有时，粉尘（dust）被用作不经济输出_或更通用的_低价值输出_的同义词。这可能造成混淆，如 [粉尘攻击（dust attacks）](https://bitcoinops.org/en/topics/output-linking/) 的情况，它涉及的金额刚好超过粉尘限制。Optech [建议](https://github.com/bitcoinops/bitcoinops.github.io/blob/master/STYLE.md)使用_不经济输出_来指那些花费成本不值得的输出，并保留粉尘这个术语专门用于提到粉尘限制。
 
 ## 主要代码和文档
 
@@ -44,5 +44,5 @@ description: 也涵盖不经济的输出（Uneconomical outputs）
 
 ## 参见
 
-* [粉尘攻击（Dust attacks，输出链接）](https://bitcoinops.org/en/topics/output-linking/)
+* [粉尘攻击（Dust attacks）](https://bitcoinops.org/en/topics/output-linking/)
 * [短暂锚点（Ephemeral anchors）](https://bitcoinops.org/en/topics/ephemeral-anchors/)

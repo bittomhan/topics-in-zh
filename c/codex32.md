@@ -6,7 +6,7 @@ description: 也涵盖 BIP93
 
 **Codex32** 是为 BIP32 种子设计的一种编码，适合于纸质存储。它支持相对简单的流程来创建种子、编码种子、将种子分割成多个部分（需要可配置的部分份额来获取种子的任何信息），以及验证部分或完整种子备份的完整性。这些过程虽然简单，但可能较为繁琐，不过可选的纸质辅助设备（volvelles）可以减少部分工作量。
 
-_此主题描述是一个存根。我们欢迎通过_[_提交请求_](https://github.com/bitcoinops/bitcoinops.github.io/edit/master/\_topics/en/codex32.md)_来提供有关此主题的更多背景信息。_
+_此主题描述是一个存根。我们欢迎通过_[pull request](https://github.com/bitcoinops/bitcoinops.github.io/edit/master/\_topics/en/codex32.md)_来提供有关此主题的更多背景信息。_
 
 ## 主要代码和文档
 
